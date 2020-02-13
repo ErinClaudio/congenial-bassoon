@@ -1,0 +1,4810 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-03T17:43:02Z",
+    "timestamp_areas_base": "2020-02-03T16:54:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1129842987,
+      "lat": 44.7636813,
+      "lon": -85.6312467,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "509",
+        "addr:postcode": "49684",
+        "addr:street": "West Front Street",
+        "name": "Burritt's",
+        "phone": "(231) 946-3300",
+        "shop": "butcher",
+        "website": "https://burrittsmarket.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1352601613,
+      "lat": 44.7547691,
+      "lon": -85.6235174,
+      "tags": {
+        "addr:housenumber": "827",
+        "addr:street": "South Union Street",
+        "name": "Deering's Market and Deli",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1942644509,
+      "lat": 44.7642153,
+      "lon": -85.6198497,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "227",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "name": "Backcountry North",
+        "shop": "outdoor",
+        "website": "https://www.backcountrynorth.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2683763742,
+      "lat": 44.7642023,
+      "lon": -85.6236163,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "101",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "name": "Boyne Country Sports",
+        "shop": "sports",
+        "website": "https://www.boynecountrysports.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2946408972,
+      "lat": 44.7636778,
+      "lon": -85.6236595,
+      "tags": {
+        "name": "Robertson's Hair Center",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3242658062,
+      "lat": 44.7473499,
+      "lon": -85.5943293,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "1116",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "Carver Street",
+        "name": "The Beverage Company",
+        "shop": "alcohol",
+        "website": "http://www.thebeveragecompany.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3242658067,
+      "lat": 44.7472925,
+      "lon": -85.5948184,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "1115",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "South Garfield Avenue",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3253801303,
+      "lat": 44.7638023,
+      "lon": -85.6308359,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "110",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "South Oak Street",
+        "name": "Jere's Barber Shop",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3253801304,
+      "lat": 44.7638813,
+      "lon": -85.6309767,
+      "tags": {
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3298962635,
+      "lat": 44.7458851,
+      "lon": -85.6068413,
+      "tags": {
+        "addr:housenumber": "1207",
+        "addr:street": "Woodmere Avenue",
+        "brand": "Saint Vincent de Paul Thrift Store",
+        "brand:wikidata": "Q66581837",
+        "name": "Saint Vincent de Paul Thrift Store",
+        "shop": "charity",
+        "short_name": "SVdP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3731744626,
+      "lat": 44.753829,
+      "lon": -85.573283,
+      "tags": {
+        "name": "Tom's",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3732049339,
+      "lat": 44.7639089,
+      "lon": -85.6213678,
+      "tags": {
+        "name": "eleven",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3732049341,
+      "lat": 44.7638949,
+      "lon": -85.6217493,
+      "tags": {
+        "brand": "Talbots",
+        "brand:wikidata": "Q7679064",
+        "brand:wikipedia": "en:Talbots",
+        "name": "Talbots",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3732049342,
+      "lat": 44.7639465,
+      "lon": -85.6225072,
+      "tags": {
+        "name": "What to Wear",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3732354052,
+      "lat": 44.7638931,
+      "lon": -85.6215549,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "154",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "craft": "winery",
+        "name": "Cherry Republic",
+        "shop": "gift",
+        "website": "https://www.cherryrepublic.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3787904654,
+      "lat": 44.767224,
+      "lon": -85.6338878,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "617",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "Randolph Street",
+        "name": "Tilley's Party Store and Disc Golf",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3790686673,
+      "lat": 44.7598299,
+      "lon": -85.611869,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "539",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "East Eighth Street",
+        "name": "Bon Vin",
+        "shop": "wine",
+        "website": "https://www.bonvintc.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3796074939,
+      "lat": 44.757848,
+      "lon": -85.5948827,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "515",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "South Garfield Avenue",
+        "name": "Kwik Print",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3990886439,
+      "lat": 44.7654981,
+      "lon": -85.6271469,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "144",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "Hall Street",
+        "name": "Wood + Cloth",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3990886440,
+      "lat": 44.7652772,
+      "lon": -85.6273051,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "144",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "Hall Street",
+        "name": "Darling Botanical Co.",
+        "shop": "florist",
+        "website": "http://www.darlingbotanical.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3998190757,
+      "lat": 44.75829,
+      "lon": -85.578939,
+      "tags": {
+        "name": "Terrace Shopper",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3998190957,
+      "lat": 44.758255,
+      "lon": -85.578791,
+      "tags": {
+        "shop": "tattoo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4207716407,
+      "lat": 44.7654844,
+      "lon": -85.6269051,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "144",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "Hall Street",
+        "name": "Relish",
+        "shop": "clothes",
+        "website": "http://www.relishtc.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4207716408,
+      "lat": 44.7653264,
+      "lon": -85.6268528,
+      "tags": {
+        "name": "Grey Wolf Creek Lighting",
+        "shop": "lighting"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4456605260,
+      "lat": 44.7642321,
+      "lon": -85.6139398,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "445",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "name": "Sweet Tartlette",
+        "opening_hours": "Tu-Sa 10:00-17:00",
+        "shop": "pastry",
+        "website": "http://www.sweettartlette.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4577535681,
+      "lat": 44.7596232,
+      "lon": -85.6211467,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "444",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "South Cass Street",
+        "name": "Bulldog's Barbershop",
+        "shop": "hairdresser",
+        "website": "https://www.bulldogsbarbers.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4672278970,
+      "lat": 44.7639892,
+      "lon": -85.6171016,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "322",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "name": "Traverse City Guitar Company",
+        "shop": "musical_instrument",
+        "website": "http://tcguitarcompany.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4710000934,
+      "lat": 44.7642197,
+      "lon": -85.6141164,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "441",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "name": "Peace, Love and Little Donuts",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4710039761,
+      "lat": 44.7763178,
+      "lon": -85.6425848,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "13920",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "South West Bay Shore Drive",
+        "name": "Gauthier's Shoes and Repair",
+        "shop": "shoes",
+        "website": "http://gauthiershoesandrepair.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4847832559,
+      "lat": 44.7642156,
+      "lon": -85.6331723,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "600",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "West Front Street",
+        "name": "The Cheese Lady",
+        "shop": "cheese",
+        "website": "https://thecheeselady.net/locations/traverse-city"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4946306106,
+      "lat": 44.7595831,
+      "lon": -85.6122862,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "527",
+        "addr:state": "MI",
+        "addr:street": "East Eighth Street",
+        "beauty": "tanning",
+        "name": "Verano Tan",
+        "shop": "beauty",
+        "website": "http://www.veranotan.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5043838808,
+      "lat": 44.7513614,
+      "lon": -85.6323673,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "537",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "West Fourteenth Street",
+        "name": "Common Good Bakery",
+        "opening_hours": "Tu-Su 06:00-15:00",
+        "shop": "bakery",
+        "website": "https://www.commongoodbakery.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5043838809,
+      "lat": 44.7513642,
+      "lon": -85.632155,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "533",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "West Fourteenth Street",
+        "name": "Manila Asian Market",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5043838810,
+      "lat": 44.7513635,
+      "lon": -85.6322636,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "535",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "West Fourteenth Street",
+        "name": "Bo Tangles",
+        "shop": "hairdresser",
+        "website": "http://www.botangles.net"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5157889158,
+      "lat": 44.7588702,
+      "lon": -85.5966332,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "1023",
+        "addr:postcode": "49686",
+        "addr:street": "East Eighth Street",
+        "name": "Blossom Shop",
+        "shop": "florist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5208693048,
+      "lat": 44.7520237,
+      "lon": -85.6318665,
+      "tags": {
+        "name": "Discount Cigarette",
+        "shop": "tobacco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5208698726,
+      "lat": 44.7520368,
+      "lon": -85.6309193,
+      "tags": {
+        "shop": "massage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5208698727,
+      "lat": 44.7519851,
+      "lon": -85.6309292,
+      "tags": {
+        "name": "QT Nails",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5225342529,
+      "lat": 44.7639742,
+      "lon": -85.61916,
+      "tags": {
+        "name": "Cali’s",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5225342530,
+      "lat": 44.7639663,
+      "lon": -85.6194099,
+      "tags": {
+        "name": "Flea",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5359748628,
+      "lat": 44.7630285,
+      "lon": -85.6219266,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "135",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East State Street",
+        "name": "Max's Service",
+        "shop": "appliance",
+        "website": "http://www.maxsservice.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5627004020,
+      "lat": 44.745536,
+      "lon": -85.6068517,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "1215",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "Woodmere Avenue",
+        "name": "Hamilton Fabrics",
+        "shop": "fabric",
+        "website": "https://hamiltonfabrics.wordpress.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5744521834,
+      "lat": 44.7676954,
+      "lon": -85.6347809,
+      "tags": {
+        "name": "Ride Science",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6036610799,
+      "lat": 44.7598538,
+      "lon": -85.6140226,
+      "tags": {
+        "brand": "Family Video",
+        "brand:wikidata": "Q5433297",
+        "brand:wikipedia": "en:Family Video",
+        "name": "Family Video",
+        "shop": "video"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6070655565,
+      "lat": 44.7485689,
+      "lon": -85.5950401,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "1035",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "South Garfield Avenue",
+        "name": "Carpet Galleria",
+        "shop": "carpet",
+        "website": "http://www.carpetgalleria.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6345496985,
+      "lat": 44.7632094,
+      "lon": -85.6196747,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "227",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East State Street",
+        "name": "Lilies of the Alley",
+        "shop": "florist",
+        "website": "http://liliesofthealley.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6406147885,
+      "lat": 44.7630208,
+      "lon": -85.6208309,
+      "tags": {
+        "name": "Crafthouse TC",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6458084223,
+      "lat": 44.7595951,
+      "lon": -85.61267,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "517",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "East Eighth Street",
+        "name": "Edward Freund Jewelry Design",
+        "shop": "jewelry",
+        "website": "http://efjeweler.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6458084224,
+      "lat": 44.759286,
+      "lon": -85.609797,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "626",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "East Eighth Street",
+        "name": "Inacomp Computer Center",
+        "shop": "computer",
+        "website": "https://inacomptc.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6458084225,
+      "lat": 44.759007,
+      "lon": -85.6132731,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "515",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "Wellington Street",
+        "name": "JenTees",
+        "shop": "yes",
+        "website": "http://www.jentees.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6491598199,
+      "lat": 44.7642067,
+      "lon": -85.6220387,
+      "tags": {
+        "name": "Sunglass Shoppe",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6491598200,
+      "lat": 44.7642061,
+      "lon": -85.6219355,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "141",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "name": "Fustini's Oils & Vinegars",
+        "shop": "yes",
+        "website": "https://www.fustinis.com/traverse-city"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6491598201,
+      "lat": 44.7642351,
+      "lon": -85.6225621,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "125",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "name": "M22",
+        "shop": "clothes",
+        "website": "https://www.m22.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6491598203,
+      "lat": 44.7642084,
+      "lon": -85.6227318,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "121",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "name": "Livnrfresh",
+        "shop": "clothes",
+        "website": "https://www.livnfresh.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6491622443,
+      "lat": 44.7639335,
+      "lon": -85.6240185,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "101",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "West Front Street",
+        "name": "James C. Smith Fine Jewelry",
+        "shop": "jewelry",
+        "website": "https://www.jamescsmith.net/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6491622446,
+      "lat": 44.763953,
+      "lon": -85.6235327,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "104",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "name": "Diversions",
+        "shop": "clothing",
+        "website": "https://www.hatsearch.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6491622447,
+      "lat": 44.7639454,
+      "lon": -85.6228187,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "118",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "name": "Brilliant Books",
+        "shop": "books",
+        "website": "https://www.brilliant-books.net/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6491622448,
+      "lat": 44.7639458,
+      "lon": -85.6232346,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "112",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "name": "Votruba Leather Goods",
+        "shop": "leather",
+        "website": "http://votrubaleather.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6491622449,
+      "lat": 44.7639528,
+      "lon": -85.6230937,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "114",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "shop": "camera",
+        "website": "http://camerashoptc.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6491622451,
+      "lat": 44.7639539,
+      "lon": -85.6226226,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "122",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "name": "Golden Shoes",
+        "shop": "shoes",
+        "website": "http://www.goldenshoestc.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6491622453,
+      "lat": 44.7639548,
+      "lon": -85.6218716,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "144",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "name": "Plamondon Shoes",
+        "shop": "shoes",
+        "website": "http://www.plamondons.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6507088886,
+      "lat": 44.7522132,
+      "lon": -85.5944821,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "835",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "South Garfield Avenue",
+        "name": "Edson Farms Market and Deli",
+        "organic": "only",
+        "shop": "supermarket",
+        "website": "https://www.edsonfarms.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6852882319,
+      "lat": 44.7596089,
+      "lon": -85.6120137,
+      "tags": {
+        "name": "Salon Moxie",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6930516230,
+      "lat": 44.7639895,
+      "lon": -85.617904,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "300",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "addr:unit": "Suite 103",
+        "name": "Running Fit",
+        "shop": "sports",
+        "sport": "running",
+        "website": "https://www.jackrabbit.com/info/locations/store/running-fit-traverse-city-downtown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6932059233,
+      "lat": 44.7613982,
+      "lon": -85.6265359,
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "305",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "Sixth Street",
+        "name": "Reynolds-Johnkhoff",
+        "shop": "funeral_directors",
+        "website": "https://www.reynolds-jonkhoff.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6958670945,
+      "lat": 44.7585109,
+      "lon": -85.594388,
+      "tags": {
+        "self_service": "yes",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990654234,
+      "lat": 44.7642224,
+      "lon": -85.6200466,
+      "tags": {
+        "name": "Toy Harbor",
+        "shop": "toys"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990654235,
+      "lat": 44.7642224,
+      "lon": -85.6199788,
+      "tags": {
+        "name": "Orivis",
+        "shop": "sports"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990654236,
+      "lat": 44.7642224,
+      "lon": -85.6199388,
+      "tags": {
+        "brand": "Chico's",
+        "brand:wikidata": "Q5096393",
+        "brand:wikipedia": "en:Chico's (clothing retailer)",
+        "name": "Chico's",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990655149,
+      "lat": 44.7642245,
+      "lon": -85.6202099,
+      "tags": {
+        "name": "Robert Frost",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990655150,
+      "lat": 44.7642333,
+      "lon": -85.6201298,
+      "tags": {
+        "name": "Pink Anchor",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990656844,
+      "lat": 44.7639336,
+      "lon": -85.6206875,
+      "tags": {
+        "name": "Glik's",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990656845,
+      "lat": 44.763938,
+      "lon": -85.6205796,
+      "tags": {
+        "name": "Critters",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990665161,
+      "lat": 44.7639423,
+      "lon": -85.6204687,
+      "tags": {
+        "name": "Trains & Things Hobbies",
+        "shop": "hobby"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990666311,
+      "lat": 44.7639445,
+      "lon": -85.6196707,
+      "tags": {
+        "name": "Haystacks",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990666312,
+      "lat": 44.7639445,
+      "lon": -85.619569,
+      "tags": {
+        "name": "Amy Thatcher",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990667737,
+      "lat": 44.7639445,
+      "lon": -85.6197477,
+      "tags": {
+        "name": "American Spoon",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990669243,
+      "lat": 44.7639445,
+      "lon": -85.6203671,
+      "tags": {
+        "name": "Identity",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990669245,
+      "lat": 44.7639511,
+      "lon": -85.6201267,
+      "tags": {
+        "name": "Nest",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990669246,
+      "lat": 44.7639445,
+      "lon": -85.6200343,
+      "tags": {
+        "name": "Miner's North",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990678095,
+      "lat": 44.7639379,
+      "lon": -85.6199603,
+      "tags": {
+        "name": "Cherry Hill Boutique",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990678096,
+      "lat": 44.7639248,
+      "lon": -85.6198648,
+      "tags": {
+        "name": "Peppercorn",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990678097,
+      "lat": 44.7639183,
+      "lon": -85.6198001,
+      "tags": {
+        "name": "Mr. Bill's Shirt Co.",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990690593,
+      "lat": 44.7642158,
+      "lon": -85.620786,
+      "tags": {
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990690594,
+      "lat": 44.7642224,
+      "lon": -85.6207368,
+      "tags": {
+        "name": "Sweet Pea",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990690595,
+      "lat": 44.7642158,
+      "lon": -85.6206474,
+      "tags": {
+        "name": "Glitz & Spurs Boutique",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990690596,
+      "lat": 44.7642158,
+      "lon": -85.6205303,
+      "tags": {
+        "name": "Ella's",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990690597,
+      "lat": 44.7642202,
+      "lon": -85.6204102,
+      "tags": {
+        "name": "Momentum",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990720814,
+      "lat": 44.7642224,
+      "lon": -85.6213037,
+      "tags": {
+        "name": "Yana Dee",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990720815,
+      "lat": 44.7642049,
+      "lon": -85.621353,
+      "tags": {
+        "name": "Roth T-Shirt Co.",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990720816,
+      "lat": 44.7642092,
+      "lon": -85.6214115,
+      "tags": {
+        "name": "suhm-thing",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990736674,
+      "lat": 44.764207,
+      "lon": -85.6217905,
+      "tags": {
+        "name": "Spice & Tea Merchants",
+        "shop": "tea"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990736675,
+      "lat": 44.764218,
+      "lon": -85.6217258,
+      "tags": {
+        "name": "Pop-Kies",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 114467207,
+      "nodes": [
+        1296669018,
+        1296669014,
+        1296669045,
+        1296669029,
+        1296668967,
+        1296669018
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "129",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Kilwin's Chocolates",
+        "shop": "confectionery",
+        "website": "https://www.kilwins.com/traversecity"
+      }
+    },
+    {
+      "type": "way",
+      "id": 114467209,
+      "nodes": [
+        1296669044,
+        1296669046,
+        1296668961,
+        1296668907,
+        1296668976,
+        1296669011,
+        1296669044
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Nifty Things",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 117544809,
+      "nodes": [
+        1324012722,
+        3797032135,
+        3797032138,
+        1324012714,
+        1324012737,
+        1324012721,
+        1324012724,
+        1324012719,
+        1324012722
+      ],
+      "tags": {
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Toms Food Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121676409,
+      "nodes": [
+        1361335291,
+        1361335292,
+        1361335286,
+        1361335287,
+        1361335291
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "243",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "building": "commercial",
+        "building:levels": "2",
+        "name": "Horizon Books",
+        "shop": "books",
+        "source": "USGS aerial",
+        "website": "https://www.horizonbooks.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121750811,
+      "nodes": [
+        1361998773,
+        1361998780,
+        1361998790,
+        2613385277,
+        2613385278,
+        1361998797,
+        2613385273,
+        2613385276,
+        1361998773
+      ],
+      "tags": {
+        "building": "commercial",
+        "building:levels": "1",
+        "name": "Toms Food Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123414229,
+      "nodes": [
+        1376356054,
+        1376356053,
+        1376356052,
+        1376356049,
+        1376356050,
+        1376356051,
+        1376356054
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "123",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "South Union Street",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Wilson's Antiques",
+        "shop": "antiques",
+        "source": "USGS aerial"
+      }
+    },
+    {
+      "type": "way",
+      "id": 124593235,
+      "nodes": [
+        1386527455,
+        1386527446,
+        1386527452,
+        1386527445,
+        1386527455
+      ],
+      "tags": {
+        "addr:housenumber": "811",
+        "addr:postcode": "49684",
+        "addr:street": "Cottageview Drive",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Pleasanton Brick Oven Bakery",
+        "shop": "bakery",
+        "website": "https://pleasantonbakery.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 125822988,
+      "nodes": [
+        1396500427,
+        1396500488,
+        1396500534,
+        1396500463,
+        3181090049,
+        1396500427
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "542",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "West Front Street",
+        "building": "yes",
+        "building:levels": "1",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "way",
+      "id": 125822998,
+      "nodes": [
+        1396500519,
+        1396500462,
+        1396500516,
+        1396500455,
+        1396500497,
+        1396500445,
+        1396500518,
+        1396500467,
+        1396500519
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "436",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "West Front Street",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Goodyear Auto Service Center",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "way",
+      "id": 125822999,
+      "nodes": [
+        1396500440,
+        1396500504,
+        1396500469,
+        1396500487,
+        1396500440
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "424",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "West Front Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Folgarelli's",
+        "roof:shape": "gabled",
+        "shop": "deli",
+        "website": "http://folgarellis.net/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 129379232,
+      "nodes": [
+        1427488834,
+        1427488826,
+        1427488819,
+        1427488816,
+        1427488834
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "736",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "East Eighth Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Brick Wheels",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 11:00-16:00",
+        "phone": "(231) 947-4274",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "https://www.brickwheels.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 146655094,
+      "nodes": [
+        1599210664,
+        3797032143,
+        1599210687,
+        1599210688,
+        3797032142,
+        1599210694,
+        1599210664
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "501",
+        "addr:street": "Lake Avenue",
+        "building": "yes",
+        "name": "McGough's",
+        "phone": "231-947-5900",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 146655096,
+      "nodes": [
+        1599210682,
+        5731971536,
+        5731971537,
+        5731971535,
+        1599210678,
+        1599210692,
+        1599210660,
+        5731971538,
+        1599210691,
+        1599210696,
+        1599210698,
+        1599210689,
+        1599210677,
+        5731971539,
+        1599210681,
+        1599210682
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "260",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Tenth Street",
+        "building": "yes",
+        "name": "Oryana Natural Foods Market",
+        "phone": "(231) 947-0191",
+        "shop": "supermarket",
+        "website": "https://www.oryana.coop/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 220797753,
+      "nodes": [
+        2298871940,
+        2298871941,
+        2298871882,
+        2298871880,
+        2298871940
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "301",
+        "addr:street": "West Grandview Parkway",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "The Candle Factory",
+        "roof:shape": "gabled",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "type": "way",
+      "id": 221241276,
+      "nodes": [
+        2302879571,
+        2302879602,
+        2302879518,
+        2302879629,
+        2302879571
+      ],
+      "tags": {
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 221241292,
+      "nodes": [
+        1356656579,
+        2302879587,
+        2302879528,
+        2302879562,
+        1356656579
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "336",
+        "addr:state": "MI",
+        "addr:street": "East Front Street",
+        "building": "yes",
+        "name": "Nolan's Tobacco",
+        "phone": "(231)946-2640",
+        "shop": "tobacco",
+        "website": "https://www.nolanstobacco.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 247530805,
+      "nodes": [
+        2544042627,
+        4710000923,
+        2544042628,
+        2544042629,
+        3794805111,
+        3794805112,
+        2544042630,
+        2544042631,
+        2544042632,
+        2544042633,
+        2544042634,
+        2544042627
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "231",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Eighth Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Thirlby Automotive",
+        "shop": "car_parts",
+        "website": "http://thirlbyautomotive.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255680505,
+      "nodes": [
+        2613516222,
+        2613516223,
+        2613516224,
+        2613516225,
+        2613516227,
+        2613516222
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "501",
+        "addr:state": "MI",
+        "addr:street": "South Union Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Randy's Olde Towne Service",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260936828,
+      "nodes": [
+        2665343300,
+        2665343302,
+        2665343304,
+        2665343306,
+        2665343300
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "750",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "East Eighth Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "McLain Cycle and Fitness",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "https://www.mclaincycle.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260936833,
+      "nodes": [
+        2665343342,
+        3242809132,
+        2665343343,
+        3242809109,
+        3242809110,
+        2665343345,
+        3242809123,
+        2665343346,
+        2665343342
+      ],
+      "tags": {
+        "addr:housenumber": "720",
+        "addr:street": "East Eighth Street",
+        "name": "Wares Auto Sales",
+        "shop": "car",
+        "website": "https://www.waresauto.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260936839,
+      "nodes": [
+        2665343393,
+        2665343394,
+        2665343396,
+        2665343397,
+        2665343399,
+        2665343400,
+        2665343393
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "1137",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "South Garfield Avenue",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Golden-Fowler Home Furnishings",
+        "shop": "furniture",
+        "website": "https://www.goldenfowler.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260936846,
+      "nodes": [
+        2665343450,
+        2665343451,
+        2665343453,
+        2665343454,
+        2665343456,
+        2665343458,
+        2665343459,
+        2665343461,
+        2665343450
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "713",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "East Eighth Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "The Copy Shop",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "way",
+      "id": 262723980,
+      "nodes": [
+        2683763706,
+        3302579350,
+        3302579351,
+        2683763709,
+        2683763712,
+        2683763714,
+        2683763706
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "407",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "South Union Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Maxbauer Specialty Meat Market",
+        "shop": "butcher",
+        "website": "https://www.maxbauers.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 262723982,
+      "nodes": [
+        2683763747,
+        2683763753,
+        2683763754,
+        2683763755,
+        2683763756,
+        2683763758,
+        2683763760,
+        2683763762,
+        2683763747
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "734",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "West Front Street",
+        "brand": "Ace Hardware",
+        "brand:wikidata": "Q4672981",
+        "brand:wikipedia": "en:Ace Hardware",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Ace Hardware",
+        "shop": "doityourself",
+        "website": "http://www.acehardware.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270653659,
+      "nodes": [
+        2756671049,
+        2756671050,
+        2756671051,
+        2756671052,
+        2756671053,
+        2756671054,
+        2756671055,
+        2756671049
+      ],
+      "tags": {
+        "brand": "Jo-Ann",
+        "brand:wikidata": "Q6203968",
+        "brand:wikipedia": "en:Jo-Ann Stores",
+        "building": "yes",
+        "name": "Jo-Ann",
+        "shop": "craft"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270716602,
+      "nodes": [
+        2757203906,
+        2757203913,
+        2757203909,
+        2757203910,
+        2757203912,
+        2757203906
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "539",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "West Fourteenth Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Kap N Keg",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270716607,
+      "nodes": [
+        2757203919,
+        2757203920,
+        2757203921,
+        2757203923,
+        2757203924,
+        2757203925,
+        2757203919
+      ],
+      "tags": {
+        "brand": "Mobil Mart",
+        "brand:wikidata": "Q3088656",
+        "brand:wikipedia": "en:Mobil",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Mobil Mart",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270716614,
+      "nodes": [
+        2757203945,
+        2757203947,
+        2757203948,
+        2757203949,
+        2757203951,
+        2757203952,
+        2757203953,
+        2757203955,
+        2757203945
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "440",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "West Fourteenth Street",
+        "building": "yes",
+        "name": "Redmond Automotive",
+        "shop": "car_repair",
+        "website": "http://www.redmondautotc.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270883795,
+      "nodes": [
+        2758484606,
+        2758484608,
+        2758484609,
+        2758484617,
+        2758484611,
+        2758484606
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "418",
+        "addr:street": "East Eighth Street",
+        "building": "yes",
+        "name": "Twin Bay Glass",
+        "shop": "glaziery",
+        "website": "https://www.twinbayglass.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270883801,
+      "nodes": [
+        2758484701,
+        2758484707,
+        2758484711,
+        2758484714,
+        2758484716,
+        2758484720,
+        2758484701
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "602",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "East Eighth Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Juniors Tires",
+        "shop": "tyres"
+      }
+    },
+    {
+      "type": "way",
+      "id": 311031701,
+      "nodes": [
+        3165668579,
+        3165668580,
+        3837322568,
+        3837322567,
+        3165668581,
+        3165668582,
+        3165668583,
+        3165668584,
+        3165668585,
+        3165668586,
+        3165668587,
+        3165668588,
+        3165668579
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "908",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "East Eighth Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Potter's Bakery",
+        "opening_hours": "Mo-Fr 5:30-17:30; Sa 6:00-16:00; Su 7:00+",
+        "shop": "bakery",
+        "website": "http://www.pottersbakery.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 311031704,
+      "nodes": [
+        3165668599,
+        3165668600,
+        3165668601,
+        3165668602,
+        3165668603,
+        3165668604,
+        3165668605,
+        3165668606,
+        3165668607,
+        3165668608,
+        3165668609,
+        3165668599
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "905",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "East Eighth Street",
+        "brand": "Family Fare",
+        "brand:wikidata": "Q19868045",
+        "brand:wikipedia": "en:Family Fare",
+        "building": "yes",
+        "name": "Family Fare",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 311837748,
+      "nodes": [
+        3175747972,
+        3175747973,
+        3813309366,
+        3175747974,
+        3175747975,
+        3813309369,
+        3175747976,
+        3175747977,
+        3175747978,
+        3175747979,
+        3175747980,
+        3175747981,
+        3175747972
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "725",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "East Eighth Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Master Dry Cleaners",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "way",
+      "id": 316960562,
+      "nodes": [
+        3231501508,
+        3231501509,
+        6958689029,
+        6958689028,
+        3231501510,
+        3231501511,
+        3231501508
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "747",
+        "addr:street": "East Eighth Street",
+        "building": "yes",
+        "name": "City Bike Shop",
+        "shop": "bicycle",
+        "website": "https://www.citybikeshop.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 316960570,
+      "nodes": [
+        3231501544,
+        3231501545,
+        3231501546,
+        3231501547,
+        3231501544
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "516",
+        "addr:street": "East Eighth Street",
+        "books": "comic",
+        "building": "yes",
+        "name": "Top Comics",
+        "shop": "books",
+        "website": "http://www.thetopcomics.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 316963201,
+      "nodes": [
+        3231535569,
+        3231535570,
+        3231535571,
+        3231535572,
+        3231535569
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "900",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "Woodmere Avenue",
+        "building": "yes",
+        "name": "Square Deal Country Store",
+        "shop": "pet",
+        "website": "http://www.squaredealcountrystore.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317370031,
+      "nodes": [
+        3236219645,
+        3236219646,
+        3236219647,
+        3236219648,
+        3236219649,
+        3236219650,
+        3236219645
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "1109",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "Woodmere Avenue",
+        "building": "yes",
+        "name": "Art's Auto & Truck Parts",
+        "shop": "car_parts",
+        "website": "https://www.artsautoandtruckparts.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317387494,
+      "nodes": [
+        3236419507,
+        3236419508,
+        3236419509,
+        3236419510,
+        3236419507
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "501",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "East Eighth Street",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Shell",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317425926,
+      "nodes": [
+        3236870457,
+        3236870458,
+        3236870459,
+        3236870460,
+        3236870457
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "628",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "Fern Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Rickman's Antiques",
+        "shop": "antiques"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317425932,
+      "nodes": [
+        3236871988,
+        3236871989,
+        3236871990,
+        3236871991,
+        3236871988
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "1040",
+        "addr:street": "East Eighth Street",
+        "building": "yes",
+        "name": "TC Brake and Alignment",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317716708,
+      "nodes": [
+        3240106769,
+        3240106770,
+        3240106771,
+        3240106772,
+        3240106773,
+        3240106774,
+        3240106775,
+        3240106776,
+        3240106769
+      ],
+      "tags": {
+        "addr:housenumber": "1142",
+        "addr:street": "Barlow Street",
+        "building": "yes",
+        "name": "Deering's Market & Deli",
+        "shop": "deli"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317932023,
+      "nodes": [
+        3242658236,
+        3242658237,
+        3242658238,
+        3242658239,
+        3242658236
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "1029",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "Carver Street",
+        "building": "yes",
+        "name": "De Weese Hardware",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "way",
+      "id": 318952860,
+      "nodes": [
+        3253544312,
+        3253544313,
+        3253544314,
+        3253544315,
+        3253544316,
+        3253544317,
+        3253544318,
+        3253544312
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "314",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "East Eighth Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Copy Central",
+        "roof:shape": "hipped",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "way",
+      "id": 318990144,
+      "nodes": [
+        3253971157,
+        3253971158,
+        3253971159,
+        3253971160,
+        3253971661,
+        3253971662,
+        3253971157
+      ],
+      "tags": {
+        "addr:housenumber": "703",
+        "addr:street": "South Garfield Avenue",
+        "brand": "AutoZone",
+        "brand:wikidata": "Q4826087",
+        "brand:wikipedia": "en:AutoZone",
+        "building": "yes",
+        "name": "AutoZone",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "type": "way",
+      "id": 318990146,
+      "nodes": [
+        3253971671,
+        3253971672,
+        3253971673,
+        3253971674,
+        3253971671
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "707",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "South Garfield Avenue",
+        "building": "yes",
+        "name": "Precision Tune Auto Care",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "way",
+      "id": 318991495,
+      "nodes": [
+        3253998868,
+        3253998869,
+        3253998870,
+        3253998871,
+        3253998868
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "725",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "South Garfield Avenue",
+        "building": "yes",
+        "name": "Garfield Auto Service Center",
+        "phone": "+1 231 9293862",
+        "shop": "car_repair",
+        "website": "http://www.garfieldauto.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319733800,
+      "nodes": [
+        3261936184,
+        3261936185,
+        3261936186,
+        3261936187,
+        3261936184
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "875",
+        "addr:postcode": "49684",
+        "addr:street": "East Front Street",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "The Blue Goat",
+        "roof:shape": "hipped",
+        "shop": "alcohol",
+        "website": "http://bluegoatwineshop.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 322753748,
+      "nodes": [
+        3295282621,
+        3295282622,
+        3295282623,
+        3295282624,
+        3295282621
+      ],
+      "tags": {
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "brand:wikipedia": "en:Holiday Stationstores",
+        "building": "yes",
+        "name": "Holiday",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 323064691,
+      "nodes": [
+        3298684240,
+        3298684241,
+        3298684242,
+        3298684243,
+        3298684240
+      ],
+      "tags": {
+        "building": "yes",
+        "building:levels": "1",
+        "name": "JLube Services",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "way",
+      "id": 323259565,
+      "nodes": [
+        3300530739,
+        3300530740,
+        3300530741,
+        3300530742,
+        3300530739
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "911",
+        "addr:state": "MI",
+        "addr:street": "Hastings Street",
+        "building": "yes",
+        "name": "Dave's Garage",
+        "shop": "car_repair",
+        "website": "http://davesgaragetc.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 323293526,
+      "nodes": [
+        3300914836,
+        3300914837,
+        3300914838,
+        3300914839,
+        3300914840,
+        3300914835,
+        3300914836
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "1126",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "Carver Street",
+        "building": "yes",
+        "name": "Pine Hill Nursery",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 323332862,
+      "nodes": [
+        3301331829,
+        3301331830,
+        3301331831,
+        3301331832,
+        3301331829
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "912",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "West Front Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "West Side Beverage",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "way",
+      "id": 323464952,
+      "nodes": [
+        3302579349,
+        3302579350,
+        3302579351,
+        3302579352,
+        3302579349
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "405",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "South Union Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Salon Élan Vital",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "way",
+      "id": 331531903,
+      "nodes": [
+        3386026697,
+        3386026698,
+        3386026699,
+        3386026700,
+        3386026701,
+        3386026702,
+        3386026697
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "642",
+        "addr:street": "Railroad Place",
+        "name": "Skegemog Gardens",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 333513166,
+      "nodes": [
+        3406305113,
+        4575783551,
+        3406305114,
+        3406305115,
+        4575783552,
+        3406305116,
+        3406305113
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "1055",
+        "addr:street": "East Eighth Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Pennzoil",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "way",
+      "id": 333513167,
+      "nodes": [
+        3406305117,
+        3406305118,
+        3406305119,
+        3406305120,
+        3406305117
+      ],
+      "tags": {
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Cutz Salon",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "way",
+      "id": 364186849,
+      "nodes": [
+        3682503108,
+        3682503109,
+        3682503110,
+        3682503111,
+        3682503112,
+        3682503113,
+        3682503114,
+        3682503108
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "341",
+        "addr:postcode": "49684",
+        "addr:state": "MI",
+        "addr:street": "West Front Street",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "The Flower Station",
+        "shop": "florist",
+        "website": "http://www.flowerstationtc.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 404278279,
+      "nodes": [
+        4065530189,
+        4065530190,
+        4065530191,
+        4065530192,
+        4065530189
+      ],
+      "tags": {
+        "addr:housenumber": "601",
+        "addr:street": "Randolph Street",
+        "building": "yes",
+        "name": "Bay Bread Company",
+        "shop": "bakery",
+        "website": "https://baybreadco.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 459615725,
+      "nodes": [
+        4554169211,
+        4554169212,
+        4554169213,
+        4554169214,
+        4554169215,
+        4554169216,
+        4554169217,
+        4554169218,
+        4554169219,
+        4554169220,
+        4554169211
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "797",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "South Airport Road West",
+        "building": "yes",
+        "name": "Gerber Collision & Glass",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "way",
+      "id": 691761033,
+      "nodes": [
+        5499445503,
+        6492443636,
+        6492443637,
+        6492443638,
+        6492443639,
+        6492443640,
+        6492443641,
+        6492443642,
+        6492443643,
+        6492443644,
+        6492443645,
+        5499445503
+      ],
+      "tags": {
+        "addr:city": "Traverse City",
+        "addr:housenumber": "125",
+        "addr:postcode": "49686",
+        "addr:state": "MI",
+        "addr:street": "South Airport Road East",
+        "brand": "Costco",
+        "brand:wikidata": "Q715583",
+        "brand:wikipedia": "en:Costco",
+        "building": "yes",
+        "name": "Costco",
+        "operator": "Costco",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4554169211,
+      "lat": 44.7330474,
+      "lon": -85.5905291
+    },
+    {
+      "type": "node",
+      "id": 4554169212,
+      "lat": 44.7329954,
+      "lon": -85.590526
+    },
+    {
+      "type": "node",
+      "id": 4554169213,
+      "lat": 44.7329954,
+      "lon": -85.5904944
+    },
+    {
+      "type": "node",
+      "id": 4554169214,
+      "lat": 44.7322747,
+      "lon": -85.5905044
+    },
+    {
+      "type": "node",
+      "id": 4554169215,
+      "lat": 44.7322742,
+      "lon": -85.5907432
+    },
+    {
+      "type": "node",
+      "id": 4554169216,
+      "lat": 44.7329155,
+      "lon": -85.5907371
+    },
+    {
+      "type": "node",
+      "id": 4554169217,
+      "lat": 44.732916,
+      "lon": -85.5906708
+    },
+    {
+      "type": "node",
+      "id": 4554169218,
+      "lat": 44.7329976,
+      "lon": -85.590667
+    },
+    {
+      "type": "node",
+      "id": 4554169219,
+      "lat": 44.7329981,
+      "lon": -85.5906377
+    },
+    {
+      "type": "node",
+      "id": 4554169220,
+      "lat": 44.7330479,
+      "lon": -85.5906369
+    },
+    {
+      "type": "node",
+      "id": 5499445503,
+      "lat": 44.7351918,
+      "lon": -85.5719756
+    },
+    {
+      "type": "node",
+      "id": 6492443640,
+      "lat": 44.7343268,
+      "lon": -85.5713394
+    },
+    {
+      "type": "node",
+      "id": 6492443641,
+      "lat": 44.734246,
+      "lon": -85.5713312
+    },
+    {
+      "type": "node",
+      "id": 6492443642,
+      "lat": 44.7342359,
+      "lon": -85.5716463
+    },
+    {
+      "type": "node",
+      "id": 6492443643,
+      "lat": 44.7343687,
+      "lon": -85.5718679
+    },
+    {
+      "type": "node",
+      "id": 6492443644,
+      "lat": 44.7343976,
+      "lon": -85.5718679
+    },
+    {
+      "type": "node",
+      "id": 6492443645,
+      "lat": 44.7343947,
+      "lon": -85.5719045
+    },
+    {
+      "type": "node",
+      "id": 6492443636,
+      "lat": 44.7352597,
+      "lon": -85.5701501
+    },
+    {
+      "type": "node",
+      "id": 6492443637,
+      "lat": 44.7345781,
+      "lon": -85.5700952
+    },
+    {
+      "type": "node",
+      "id": 6492443638,
+      "lat": 44.7345723,
+      "lon": -85.5702945
+    },
+    {
+      "type": "node",
+      "id": 6492443639,
+      "lat": 44.7343658,
+      "lon": -85.5702782
+    },
+    {
+      "type": "node",
+      "id": 1386527445,
+      "lat": 44.7556778,
+      "lon": -85.6441773
+    },
+    {
+      "type": "node",
+      "id": 1386527446,
+      "lat": 44.7556498,
+      "lon": -85.6440094
+    },
+    {
+      "type": "node",
+      "id": 1386527452,
+      "lat": 44.755613,
+      "lon": -85.6441397
+    },
+    {
+      "type": "node",
+      "id": 1386527455,
+      "lat": 44.7557126,
+      "lon": -85.6440469
+    },
+    {
+      "type": "node",
+      "id": 1324012714,
+      "lat": 44.7500976,
+      "lon": -85.6337899
+    },
+    {
+      "type": "node",
+      "id": 1324012719,
+      "lat": 44.7508299,
+      "lon": -85.6337574
+    },
+    {
+      "type": "node",
+      "id": 1324012721,
+      "lat": 44.75082,
+      "lon": -85.6331081
+    },
+    {
+      "type": "node",
+      "id": 1324012722,
+      "lat": 44.75083,
+      "lon": -85.6337678
+    },
+    {
+      "type": "node",
+      "id": 1324012724,
+      "lat": 44.7508218,
+      "lon": -85.6332237
+    },
+    {
+      "type": "node",
+      "id": 1324012737,
+      "lat": 44.7500876,
+      "lon": -85.6331302
+    },
+    {
+      "type": "node",
+      "id": 3797032135,
+      "lat": 44.7506878,
+      "lon": -85.6337721
+    },
+    {
+      "type": "node",
+      "id": 3797032138,
+      "lat": 44.7505452,
+      "lon": -85.6337764
+    },
+    {
+      "type": "node",
+      "id": 2302879518,
+      "lat": 44.7519957,
+      "lon": -85.6323685
+    },
+    {
+      "type": "node",
+      "id": 2302879571,
+      "lat": 44.7521051,
+      "lon": -85.6326206
+    },
+    {
+      "type": "node",
+      "id": 2302879602,
+      "lat": 44.752106,
+      "lon": -85.6323693
+    },
+    {
+      "type": "node",
+      "id": 2302879629,
+      "lat": 44.7519948,
+      "lon": -85.6326197
+    },
+    {
+      "type": "node",
+      "id": 2757203906,
+      "lat": 44.7515185,
+      "lon": -85.632428
+    },
+    {
+      "type": "node",
+      "id": 2757203909,
+      "lat": 44.7512754,
+      "lon": -85.6324357
+    },
+    {
+      "type": "node",
+      "id": 2757203910,
+      "lat": 44.7512776,
+      "lon": -85.632574
+    },
+    {
+      "type": "node",
+      "id": 2757203912,
+      "lat": 44.7515207,
+      "lon": -85.6325664
+    },
+    {
+      "type": "node",
+      "id": 2757203913,
+      "lat": 44.7513847,
+      "lon": -85.6324322
+    },
+    {
+      "type": "node",
+      "id": 2757203919,
+      "lat": 44.7515579,
+      "lon": -85.6296228
+    },
+    {
+      "type": "node",
+      "id": 2757203920,
+      "lat": 44.751519,
+      "lon": -85.6296237
+    },
+    {
+      "type": "node",
+      "id": 2757203921,
+      "lat": 44.7514084,
+      "lon": -85.6297768
+    },
+    {
+      "type": "node",
+      "id": 2757203923,
+      "lat": 44.751409,
+      "lon": -85.6298246
+    },
+    {
+      "type": "node",
+      "id": 2757203924,
+      "lat": 44.751534,
+      "lon": -85.6298254
+    },
+    {
+      "type": "node",
+      "id": 2757203925,
+      "lat": 44.7515579,
+      "lon": -85.6297954
+    },
+    {
+      "type": "node",
+      "id": 2757203945,
+      "lat": 44.7520694,
+      "lon": -85.6303144
+    },
+    {
+      "type": "node",
+      "id": 2757203947,
+      "lat": 44.7519065,
+      "lon": -85.6303104
+    },
+    {
+      "type": "node",
+      "id": 2757203948,
+      "lat": 44.7519088,
+      "lon": -85.6301262
+    },
+    {
+      "type": "node",
+      "id": 2757203949,
+      "lat": 44.7517955,
+      "lon": -85.6301234
+    },
+    {
+      "type": "node",
+      "id": 2757203951,
+      "lat": 44.7517975,
+      "lon": -85.6299597
+    },
+    {
+      "type": "node",
+      "id": 2757203952,
+      "lat": 44.7521232,
+      "lon": -85.6299678
+    },
+    {
+      "type": "node",
+      "id": 2757203953,
+      "lat": 44.7521197,
+      "lon": -85.6302457
+    },
+    {
+      "type": "node",
+      "id": 2757203955,
+      "lat": 44.7520703,
+      "lon": -85.6302445
+    },
+    {
+      "type": "node",
+      "id": 3298684240,
+      "lat": 44.7514167,
+      "lon": -85.6319635
+    },
+    {
+      "type": "node",
+      "id": 3298684241,
+      "lat": 44.7514162,
+      "lon": -85.6318278
+    },
+    {
+      "type": "node",
+      "id": 3298684242,
+      "lat": 44.7513158,
+      "lon": -85.6318286
+    },
+    {
+      "type": "node",
+      "id": 3298684243,
+      "lat": 44.7513164,
+      "lon": -85.6319643
+    },
+    {
+      "type": "node",
+      "id": 2683763753,
+      "lat": 44.7641419,
+      "lon": -85.6363483
+    },
+    {
+      "type": "node",
+      "id": 2683763754,
+      "lat": 44.7641419,
+      "lon": -85.6359835
+    },
+    {
+      "type": "node",
+      "id": 2683763755,
+      "lat": 44.7643343,
+      "lon": -85.6359795
+    },
+    {
+      "type": "node",
+      "id": 2683763756,
+      "lat": 44.7643352,
+      "lon": -85.6360076
+    },
+    {
+      "type": "node",
+      "id": 3301331829,
+      "lat": 44.764299,
+      "lon": -85.6386961
+    },
+    {
+      "type": "node",
+      "id": 3301331830,
+      "lat": 44.7642997,
+      "lon": -85.638584
+    },
+    {
+      "type": "node",
+      "id": 3301331831,
+      "lat": 44.7641411,
+      "lon": -85.6385822
+    },
+    {
+      "type": "node",
+      "id": 3301331832,
+      "lat": 44.7641404,
+      "lon": -85.6386943
+    },
+    {
+      "type": "node",
+      "id": 1396500427,
+      "lat": 44.7643655,
+      "lon": -85.6326991
+    },
+    {
+      "type": "node",
+      "id": 1396500455,
+      "lat": 44.7641897,
+      "lon": -85.6301854
+    },
+    {
+      "type": "node",
+      "id": 1396500462,
+      "lat": 44.7642057,
+      "lon": -85.6300058
+    },
+    {
+      "type": "node",
+      "id": 1396500463,
+      "lat": 44.7641389,
+      "lon": -85.6327906
+    },
+    {
+      "type": "node",
+      "id": 1396500469,
+      "lat": 44.7641574,
+      "lon": -85.6293458
+    },
+    {
+      "type": "node",
+      "id": 1396500497,
+      "lat": 44.7641821,
+      "lon": -85.6302389
+    },
+    {
+      "type": "node",
+      "id": 1396500516,
+      "lat": 44.7641726,
+      "lon": -85.6300513
+    },
+    {
+      "type": "node",
+      "id": 3181090049,
+      "lat": 44.7641403,
+      "lon": -85.632691
+    },
+    {
+      "type": "node",
+      "id": 1599210660,
+      "lat": 44.7567408,
+      "lon": -85.6176192
+    },
+    {
+      "type": "node",
+      "id": 1599210677,
+      "lat": 44.7568117,
+      "lon": -85.6172926
+    },
+    {
+      "type": "node",
+      "id": 1599210678,
+      "lat": 44.7567964,
+      "lon": -85.6179739
+    },
+    {
+      "type": "node",
+      "id": 1599210681,
+      "lat": 44.7569597,
+      "lon": -85.6172956
+    },
+    {
+      "type": "node",
+      "id": 1599210682,
+      "lat": 44.7569497,
+      "lon": -85.6180642
+    },
+    {
+      "type": "node",
+      "id": 1599210689,
+      "lat": 44.756813,
+      "lon": -85.6171931
+    },
+    {
+      "type": "node",
+      "id": 1599210691,
+      "lat": 44.7567425,
+      "lon": -85.6174569
+    },
+    {
+      "type": "node",
+      "id": 1599210692,
+      "lat": 44.7568014,
+      "lon": -85.6176227
+    },
+    {
+      "type": "node",
+      "id": 1599210696,
+      "lat": 44.7566588,
+      "lon": -85.6174558
+    },
+    {
+      "type": "node",
+      "id": 1599210698,
+      "lat": 44.7566629,
+      "lon": -85.6171896
+    },
+    {
+      "type": "node",
+      "id": 5731971535,
+      "lat": 44.7568507,
+      "lon": -85.6179753
+    },
+    {
+      "type": "node",
+      "id": 5731971536,
+      "lat": 44.7568498,
+      "lon": -85.6180623
+    },
+    {
+      "type": "node",
+      "id": 5731971537,
+      "lat": 44.7568503,
+      "lon": -85.6180311
+    },
+    {
+      "type": "node",
+      "id": 5731971538,
+      "lat": 44.756742,
+      "lon": -85.6175048
+    },
+    {
+      "type": "node",
+      "id": 5731971539,
+      "lat": 44.7568468,
+      "lon": -85.6172942
+    },
+    {
+      "type": "node",
+      "id": 1376356049,
+      "lat": 44.7631062,
+      "lon": -85.6232827
+    },
+    {
+      "type": "node",
+      "id": 1376356050,
+      "lat": 44.7631062,
+      "lon": -85.6232906
+    },
+    {
+      "type": "node",
+      "id": 1376356051,
+      "lat": 44.7631084,
+      "lon": -85.6236871
+    },
+    {
+      "type": "node",
+      "id": 1376356052,
+      "lat": 44.763237,
+      "lon": -85.6232813
+    },
+    {
+      "type": "node",
+      "id": 1376356053,
+      "lat": 44.7632374,
+      "lon": -85.62336
+    },
+    {
+      "type": "node",
+      "id": 1376356054,
+      "lat": 44.7632391,
+      "lon": -85.6236857
+    },
+    {
+      "type": "node",
+      "id": 1396500504,
+      "lat": 44.7641574,
+      "lon": -85.629209
+    },
+    {
+      "type": "node",
+      "id": 2613516222,
+      "lat": 44.7591047,
+      "lon": -85.6232457
+    },
+    {
+      "type": "node",
+      "id": 2613516223,
+      "lat": 44.7590169,
+      "lon": -85.6232446
+    },
+    {
+      "type": "node",
+      "id": 2613516224,
+      "lat": 44.7590127,
+      "lon": -85.6234956
+    },
+    {
+      "type": "node",
+      "id": 2613516225,
+      "lat": 44.7590832,
+      "lon": -85.6234979
+    },
+    {
+      "type": "node",
+      "id": 2613516227,
+      "lat": 44.7591031,
+      "lon": -85.623471
+    },
+    {
+      "type": "node",
+      "id": 2683763706,
+      "lat": 44.7602374,
+      "lon": -85.6236355
+    },
+    {
+      "type": "node",
+      "id": 2683763709,
+      "lat": 44.7602374,
+      "lon": -85.6232798
+    },
+    {
+      "type": "node",
+      "id": 2683763712,
+      "lat": 44.7601079,
+      "lon": -85.623278
+    },
+    {
+      "type": "node",
+      "id": 2683763714,
+      "lat": 44.7601067,
+      "lon": -85.6236337
+    },
+    {
+      "type": "node",
+      "id": 3302579349,
+      "lat": 44.7602815,
+      "lon": -85.6236316
+    },
+    {
+      "type": "node",
+      "id": 3302579350,
+      "lat": 44.7602374,
+      "lon": -85.6236306
+    },
+    {
+      "type": "node",
+      "id": 3302579351,
+      "lat": 44.7602374,
+      "lon": -85.6233897
+    },
+    {
+      "type": "node",
+      "id": 3302579352,
+      "lat": 44.7602812,
+      "lon": -85.6233902
+    },
+    {
+      "type": "node",
+      "id": 3682503108,
+      "lat": 44.7639628,
+      "lon": -85.6280776
+    },
+    {
+      "type": "node",
+      "id": 3682503109,
+      "lat": 44.7639675,
+      "lon": -85.6279657
+    },
+    {
+      "type": "node",
+      "id": 3682503110,
+      "lat": 44.7639371,
+      "lon": -85.6279657
+    },
+    {
+      "type": "node",
+      "id": 3682503111,
+      "lat": 44.7638242,
+      "lon": -85.6281313
+    },
+    {
+      "type": "node",
+      "id": 3682503112,
+      "lat": 44.7638514,
+      "lon": -85.6281682
+    },
+    {
+      "type": "node",
+      "id": 3682503113,
+      "lat": 44.7638585,
+      "lon": -85.6281547
+    },
+    {
+      "type": "node",
+      "id": 3682503114,
+      "lat": 44.7638847,
+      "lon": -85.6281863
+    },
+    {
+      "type": "node",
+      "id": 1296668907,
+      "lat": 44.7641796,
+      "lon": -85.6218558
+    },
+    {
+      "type": "node",
+      "id": 1296668961,
+      "lat": 44.7641797,
+      "lon": -85.6217626
+    },
+    {
+      "type": "node",
+      "id": 1296668976,
+      "lat": 44.7643514,
+      "lon": -85.6218562
+    },
+    {
+      "type": "node",
+      "id": 1296669014,
+      "lat": 44.7641773,
+      "lon": -85.6222771
+    },
+    {
+      "type": "node",
+      "id": 1296669045,
+      "lat": 44.7641771,
+      "lon": -85.6223858
+    },
+    {
+      "type": "node",
+      "id": 1296669046,
+      "lat": 44.7643597,
+      "lon": -85.6217626
+    },
+    {
+      "type": "node",
+      "id": 1356656579,
+      "lat": 44.7640063,
+      "lon": -85.6166877
+    },
+    {
+      "type": "node",
+      "id": 1361335286,
+      "lat": 44.764191,
+      "lon": -85.6191994
+    },
+    {
+      "type": "node",
+      "id": 1361335287,
+      "lat": 44.7641923,
+      "lon": -85.6188547
+    },
+    {
+      "type": "node",
+      "id": 1599210664,
+      "lat": 44.7583529,
+      "lon": -85.6178243
+    },
+    {
+      "type": "node",
+      "id": 1599210687,
+      "lat": 44.7589318,
+      "lon": -85.618055
+    },
+    {
+      "type": "node",
+      "id": 1599210688,
+      "lat": 44.7589464,
+      "lon": -85.617968
+    },
+    {
+      "type": "node",
+      "id": 1599210694,
+      "lat": 44.75837,
+      "lon": -85.6177331
+    },
+    {
+      "type": "node",
+      "id": 2302879528,
+      "lat": 44.7637695,
+      "lon": -85.6165316
+    },
+    {
+      "type": "node",
+      "id": 2302879562,
+      "lat": 44.7640078,
+      "lon": -85.6165363
+    },
+    {
+      "type": "node",
+      "id": 2302879587,
+      "lat": 44.7637679,
+      "lon": -85.6166829
+    },
+    {
+      "type": "node",
+      "id": 2544042627,
+      "lat": 44.7598477,
+      "lon": -85.6201656
+    },
+    {
+      "type": "node",
+      "id": 2544042628,
+      "lat": 44.7594846,
+      "lon": -85.6201585
+    },
+    {
+      "type": "node",
+      "id": 2544042629,
+      "lat": 44.7594896,
+      "lon": -85.6190916
+    },
+    {
+      "type": "node",
+      "id": 2544042630,
+      "lat": 44.7595763,
+      "lon": -85.6192579
+    },
+    {
+      "type": "node",
+      "id": 2544042631,
+      "lat": 44.7595688,
+      "lon": -85.6197639
+    },
+    {
+      "type": "node",
+      "id": 2544042632,
+      "lat": 44.7596203,
+      "lon": -85.6197656
+    },
+    {
+      "type": "node",
+      "id": 2544042633,
+      "lat": 44.7596228,
+      "lon": -85.6196672
+    },
+    {
+      "type": "node",
+      "id": 2544042634,
+      "lat": 44.7596957,
+      "lon": -85.6196665
+    },
+    {
+      "type": "node",
+      "id": 3253544312,
+      "lat": 44.7593054,
+      "lon": -85.6173198
+    },
+    {
+      "type": "node",
+      "id": 3253544313,
+      "lat": 44.7591984,
+      "lon": -85.6173198
+    },
+    {
+      "type": "node",
+      "id": 3253544314,
+      "lat": 44.759128,
+      "lon": -85.6173315
+    },
+    {
+      "type": "node",
+      "id": 3253544315,
+      "lat": 44.7591296,
+      "lon": -85.6174459
+    },
+    {
+      "type": "node",
+      "id": 3253544316,
+      "lat": 44.7592001,
+      "lon": -85.6174552
+    },
+    {
+      "type": "node",
+      "id": 3253544317,
+      "lat": 44.7591993,
+      "lon": -85.6176631
+    },
+    {
+      "type": "node",
+      "id": 3253544318,
+      "lat": 44.7593046,
+      "lon": -85.6176642
+    },
+    {
+      "type": "node",
+      "id": 3794805111,
+      "lat": 44.7595328,
+      "lon": -85.6190993
+    },
+    {
+      "type": "node",
+      "id": 3794805112,
+      "lat": 44.7595676,
+      "lon": -85.6192448
+    },
+    {
+      "type": "node",
+      "id": 3797032142,
+      "lat": 44.7588504,
+      "lon": -85.6179289
+    },
+    {
+      "type": "node",
+      "id": 3797032143,
+      "lat": 44.758832,
+      "lon": -85.6180152
+    },
+    {
+      "type": "node",
+      "id": 4710000923,
+      "lat": 44.7595288,
+      "lon": -85.6201594
+    },
+    {
+      "type": "node",
+      "id": 1361998773,
+      "lat": 44.7754444,
+      "lon": -85.6431519
+    },
+    {
+      "type": "node",
+      "id": 1361998780,
+      "lat": 44.7754519,
+      "lon": -85.6438584
+    },
+    {
+      "type": "node",
+      "id": 1361998790,
+      "lat": 44.7760512,
+      "lon": -85.6438562
+    },
+    {
+      "type": "node",
+      "id": 1361998797,
+      "lat": 44.7760512,
+      "lon": -85.6431487
+    },
+    {
+      "type": "node",
+      "id": 2613385273,
+      "lat": 44.775885,
+      "lon": -85.6431519
+    },
+    {
+      "type": "node",
+      "id": 2613385276,
+      "lat": 44.7756812,
+      "lon": -85.6431532
+    },
+    {
+      "type": "node",
+      "id": 2613385277,
+      "lat": 44.7761008,
+      "lon": -85.6438139
+    },
+    {
+      "type": "node",
+      "id": 2613385278,
+      "lat": 44.7760534,
+      "lon": -85.643709
+    },
+    {
+      "type": "node",
+      "id": 2683763747,
+      "lat": 44.7643933,
+      "lon": -85.6363402
+    },
+    {
+      "type": "node",
+      "id": 2683763758,
+      "lat": 44.7644723,
+      "lon": -85.6359996
+    },
+    {
+      "type": "node",
+      "id": 2683763760,
+      "lat": 44.7644752,
+      "lon": -85.6361874
+    },
+    {
+      "type": "node",
+      "id": 2683763762,
+      "lat": 44.7643914,
+      "lon": -85.6362155
+    },
+    {
+      "type": "node",
+      "id": 1396500445,
+      "lat": 44.7644392,
+      "lon": -85.6302442
+    },
+    {
+      "type": "node",
+      "id": 1396500467,
+      "lat": 44.7645352,
+      "lon": -85.6300881
+    },
+    {
+      "type": "node",
+      "id": 1396500487,
+      "lat": 44.7645257,
+      "lon": -85.6294452
+    },
+    {
+      "type": "node",
+      "id": 1396500488,
+      "lat": 44.7644023,
+      "lon": -85.6327012
+    },
+    {
+      "type": "node",
+      "id": 1396500518,
+      "lat": 44.7644381,
+      "lon": -85.6300916
+    },
+    {
+      "type": "node",
+      "id": 1396500519,
+      "lat": 44.7645344,
+      "lon": -85.6300057
+    },
+    {
+      "type": "node",
+      "id": 1396500534,
+      "lat": 44.7644008,
+      "lon": -85.6328008
+    },
+    {
+      "type": "node",
+      "id": 4065530189,
+      "lat": 44.7673069,
+      "lon": -85.6332284
+    },
+    {
+      "type": "node",
+      "id": 4065530190,
+      "lat": 44.7673063,
+      "lon": -85.6331348
+    },
+    {
+      "type": "node",
+      "id": 4065530191,
+      "lat": 44.7671301,
+      "lon": -85.6331371
+    },
+    {
+      "type": "node",
+      "id": 4065530192,
+      "lat": 44.7671307,
+      "lon": -85.6332307
+    },
+    {
+      "type": "node",
+      "id": 3295282621,
+      "lat": 44.7772825,
+      "lon": -85.6416613
+    },
+    {
+      "type": "node",
+      "id": 3295282622,
+      "lat": 44.7772311,
+      "lon": -85.6414293
+    },
+    {
+      "type": "node",
+      "id": 3295282623,
+      "lat": 44.7770326,
+      "lon": -85.6415198
+    },
+    {
+      "type": "node",
+      "id": 3295282624,
+      "lat": 44.7770831,
+      "lon": -85.6417511
+    },
+    {
+      "type": "node",
+      "id": 1396500440,
+      "lat": 44.7645276,
+      "lon": -85.6293218
+    },
+    {
+      "type": "node",
+      "id": 2298871880,
+      "lat": 44.765918,
+      "lon": -85.6278648
+    },
+    {
+      "type": "node",
+      "id": 2298871882,
+      "lat": 44.7657721,
+      "lon": -85.6274311
+    },
+    {
+      "type": "node",
+      "id": 2298871940,
+      "lat": 44.7660081,
+      "lon": -85.6278047
+    },
+    {
+      "type": "node",
+      "id": 2298871941,
+      "lat": 44.7658622,
+      "lon": -85.627371
+    },
+    {
+      "type": "node",
+      "id": 1296668967,
+      "lat": 44.764494,
+      "lon": -85.6223866
+    },
+    {
+      "type": "node",
+      "id": 1296669011,
+      "lat": 44.7644261,
+      "lon": -85.6218564
+    },
+    {
+      "type": "node",
+      "id": 1296669018,
+      "lat": 44.7644941,
+      "lon": -85.6222779
+    },
+    {
+      "type": "node",
+      "id": 1296669029,
+      "lat": 44.7644533,
+      "lon": -85.6223865
+    },
+    {
+      "type": "node",
+      "id": 1296669044,
+      "lat": 44.7644262,
+      "lon": -85.6217628
+    },
+    {
+      "type": "node",
+      "id": 1361335291,
+      "lat": 44.7644658,
+      "lon": -85.6188606
+    },
+    {
+      "type": "node",
+      "id": 1361335292,
+      "lat": 44.7644658,
+      "lon": -85.6192007
+    },
+    {
+      "type": "node",
+      "id": 3231535569,
+      "lat": 44.7502485,
+      "lon": -85.6078344
+    },
+    {
+      "type": "node",
+      "id": 3231535570,
+      "lat": 44.7498602,
+      "lon": -85.6078184
+    },
+    {
+      "type": "node",
+      "id": 3231535571,
+      "lat": 44.7498526,
+      "lon": -85.6081299
+    },
+    {
+      "type": "node",
+      "id": 3231535572,
+      "lat": 44.7502435,
+      "lon": -85.6081494
+    },
+    {
+      "type": "node",
+      "id": 3236219645,
+      "lat": 44.7477735,
+      "lon": -85.606926
+    },
+    {
+      "type": "node",
+      "id": 3236219646,
+      "lat": 44.7475234,
+      "lon": -85.6069242
+    },
+    {
+      "type": "node",
+      "id": 3236219647,
+      "lat": 44.7475158,
+      "lon": -85.6062482
+    },
+    {
+      "type": "node",
+      "id": 3236219648,
+      "lat": 44.74783,
+      "lon": -85.6062429
+    },
+    {
+      "type": "node",
+      "id": 3236219649,
+      "lat": 44.7478363,
+      "lon": -85.6067968
+    },
+    {
+      "type": "node",
+      "id": 3236219650,
+      "lat": 44.7477722,
+      "lon": -85.6067933
+    },
+    {
+      "type": "node",
+      "id": 3240106769,
+      "lat": 44.7464912,
+      "lon": -85.6060809
+    },
+    {
+      "type": "node",
+      "id": 3240106770,
+      "lat": 44.746349,
+      "lon": -85.6060839
+    },
+    {
+      "type": "node",
+      "id": 3240106771,
+      "lat": 44.7463512,
+      "lon": -85.606201
+    },
+    {
+      "type": "node",
+      "id": 3240106772,
+      "lat": 44.7463304,
+      "lon": -85.606201
+    },
+    {
+      "type": "node",
+      "id": 3240106773,
+      "lat": 44.7463326,
+      "lon": -85.6062657
+    },
+    {
+      "type": "node",
+      "id": 3240106774,
+      "lat": 44.7463533,
+      "lon": -85.6062688
+    },
+    {
+      "type": "node",
+      "id": 3240106775,
+      "lat": 44.7463523,
+      "lon": -85.6063119
+    },
+    {
+      "type": "node",
+      "id": 3240106776,
+      "lat": 44.7464934,
+      "lon": -85.6063073
+    },
+    {
+      "type": "node",
+      "id": 2665343393,
+      "lat": 44.7466846,
+      "lon": -85.5948561
+    },
+    {
+      "type": "node",
+      "id": 2665343394,
+      "lat": 44.746681,
+      "lon": -85.5940863
+    },
+    {
+      "type": "node",
+      "id": 2665343396,
+      "lat": 44.7463573,
+      "lon": -85.5940892
+    },
+    {
+      "type": "node",
+      "id": 2665343397,
+      "lat": 44.7463591,
+      "lon": -85.5944775
+    },
+    {
+      "type": "node",
+      "id": 2665343399,
+      "lat": 44.7462567,
+      "lon": -85.5944784
+    },
+    {
+      "type": "node",
+      "id": 2665343400,
+      "lat": 44.7462585,
+      "lon": -85.59486
+    },
+    {
+      "type": "node",
+      "id": 3242658236,
+      "lat": 44.7483536,
+      "lon": -85.5964819
+    },
+    {
+      "type": "node",
+      "id": 3242658237,
+      "lat": 44.7483362,
+      "lon": -85.59612
+    },
+    {
+      "type": "node",
+      "id": 3242658238,
+      "lat": 44.7480651,
+      "lon": -85.5961491
+    },
+    {
+      "type": "node",
+      "id": 3242658239,
+      "lat": 44.7480858,
+      "lon": -85.5965076
+    },
+    {
+      "type": "node",
+      "id": 3300530739,
+      "lat": 44.7509199,
+      "lon": -85.5925167
+    },
+    {
+      "type": "node",
+      "id": 3300530740,
+      "lat": 44.7509152,
+      "lon": -85.5921308
+    },
+    {
+      "type": "node",
+      "id": 3300530741,
+      "lat": 44.7508107,
+      "lon": -85.5921333
+    },
+    {
+      "type": "node",
+      "id": 3300530742,
+      "lat": 44.7508155,
+      "lon": -85.5925192
+    },
+    {
+      "type": "node",
+      "id": 3300914835,
+      "lat": 44.7472558,
+      "lon": -85.5932996
+    },
+    {
+      "type": "node",
+      "id": 3300914836,
+      "lat": 44.7472567,
+      "lon": -85.593477
+    },
+    {
+      "type": "node",
+      "id": 3300914837,
+      "lat": 44.7472575,
+      "lon": -85.593505
+    },
+    {
+      "type": "node",
+      "id": 3300914838,
+      "lat": 44.7471223,
+      "lon": -85.5935062
+    },
+    {
+      "type": "node",
+      "id": 3300914839,
+      "lat": 44.747124,
+      "lon": -85.5932937
+    },
+    {
+      "type": "node",
+      "id": 3300914840,
+      "lat": 44.7472567,
+      "lon": -85.5932879
+    },
+    {
+      "type": "node",
+      "id": 2758484606,
+      "lat": 44.7592875,
+      "lon": -85.6148328
+    },
+    {
+      "type": "node",
+      "id": 2758484608,
+      "lat": 44.7592873,
+      "lon": -85.6146437
+    },
+    {
+      "type": "node",
+      "id": 2758484609,
+      "lat": 44.7590457,
+      "lon": -85.614644
+    },
+    {
+      "type": "node",
+      "id": 2758484611,
+      "lat": 44.7590458,
+      "lon": -85.6148332
+    },
+    {
+      "type": "node",
+      "id": 2758484617,
+      "lat": 44.7590457,
+      "lon": -85.614713
+    },
+    {
+      "type": "node",
+      "id": 2758484701,
+      "lat": 44.7593139,
+      "lon": -85.6110464
+    },
+    {
+      "type": "node",
+      "id": 2758484707,
+      "lat": 44.7593152,
+      "lon": -85.6108553
+    },
+    {
+      "type": "node",
+      "id": 2758484711,
+      "lat": 44.7590224,
+      "lon": -85.6108465
+    },
+    {
+      "type": "node",
+      "id": 2758484714,
+      "lat": 44.7590212,
+      "lon": -85.6109367
+    },
+    {
+      "type": "node",
+      "id": 2758484716,
+      "lat": 44.7590413,
+      "lon": -85.6109385
+    },
+    {
+      "type": "node",
+      "id": 2758484720,
+      "lat": 44.7590413,
+      "lon": -85.6110393
+    },
+    {
+      "type": "node",
+      "id": 3231501544,
+      "lat": 44.7592959,
+      "lon": -85.612763
+    },
+    {
+      "type": "node",
+      "id": 3231501545,
+      "lat": 44.7590996,
+      "lon": -85.6127587
+    },
+    {
+      "type": "node",
+      "id": 3231501546,
+      "lat": 44.7591005,
+      "lon": -85.612672
+    },
+    {
+      "type": "node",
+      "id": 3231501547,
+      "lat": 44.7592968,
+      "lon": -85.6126763
+    },
+    {
+      "type": "node",
+      "id": 3236419507,
+      "lat": 44.7597069,
+      "lon": -85.6132978
+    },
+    {
+      "type": "node",
+      "id": 3236419508,
+      "lat": 44.7596203,
+      "lon": -85.6132967
+    },
+    {
+      "type": "node",
+      "id": 3236419509,
+      "lat": 44.7596214,
+      "lon": -85.6131224
+    },
+    {
+      "type": "node",
+      "id": 3236419510,
+      "lat": 44.759708,
+      "lon": -85.6131235
+    },
+    {
+      "type": "node",
+      "id": 1427488816,
+      "lat": 44.7586161,
+      "lon": -85.6068105
+    },
+    {
+      "type": "node",
+      "id": 1427488819,
+      "lat": 44.7586137,
+      "lon": -85.6065542
+    },
+    {
+      "type": "node",
+      "id": 1427488826,
+      "lat": 44.7589821,
+      "lon": -85.6065473
+    },
+    {
+      "type": "node",
+      "id": 1427488834,
+      "lat": 44.7589845,
+      "lon": -85.6068035
+    },
+    {
+      "type": "node",
+      "id": 2665343300,
+      "lat": 44.7590086,
+      "lon": -85.6058019
+    },
+    {
+      "type": "node",
+      "id": 2665343302,
+      "lat": 44.758997,
+      "lon": -85.6055992
+    },
+    {
+      "type": "node",
+      "id": 2665343304,
+      "lat": 44.7588921,
+      "lon": -85.6056111
+    },
+    {
+      "type": "node",
+      "id": 2665343306,
+      "lat": 44.7589037,
+      "lon": -85.6058138
+    },
+    {
+      "type": "node",
+      "id": 2665343342,
+      "lat": 44.7590861,
+      "lon": -85.6074751
+    },
+    {
+      "type": "node",
+      "id": 2665343343,
+      "lat": 44.7582063,
+      "lon": -85.6074455
+    },
+    {
+      "type": "node",
+      "id": 2665343345,
+      "lat": 44.7584717,
+      "lon": -85.6068236
+    },
+    {
+      "type": "node",
+      "id": 2665343346,
+      "lat": 44.7590635,
+      "lon": -85.6068275
+    },
+    {
+      "type": "node",
+      "id": 2665343450,
+      "lat": 44.7596788,
+      "lon": -85.6077907
+    },
+    {
+      "type": "node",
+      "id": 2665343451,
+      "lat": 44.7596669,
+      "lon": -85.60746
+    },
+    {
+      "type": "node",
+      "id": 2665343453,
+      "lat": 44.7594871,
+      "lon": -85.6074729
+    },
+    {
+      "type": "node",
+      "id": 2665343454,
+      "lat": 44.7594904,
+      "lon": -85.6075639
+    },
+    {
+      "type": "node",
+      "id": 2665343456,
+      "lat": 44.7594754,
+      "lon": -85.6075649
+    },
+    {
+      "type": "node",
+      "id": 2665343458,
+      "lat": 44.7594814,
+      "lon": -85.6077303
+    },
+    {
+      "type": "node",
+      "id": 2665343459,
+      "lat": 44.7594923,
+      "lon": -85.6077295
+    },
+    {
+      "type": "node",
+      "id": 2665343461,
+      "lat": 44.759495,
+      "lon": -85.6078039
+    },
+    {
+      "type": "node",
+      "id": 3175747972,
+      "lat": 44.7596231,
+      "lon": -85.6072055
+    },
+    {
+      "type": "node",
+      "id": 3175747973,
+      "lat": 44.7593583,
+      "lon": -85.6072089
+    },
+    {
+      "type": "node",
+      "id": 3175747974,
+      "lat": 44.7593562,
+      "lon": -85.6068875
+    },
+    {
+      "type": "node",
+      "id": 3175747975,
+      "lat": 44.7594089,
+      "lon": -85.6068868
+    },
+    {
+      "type": "node",
+      "id": 3175747976,
+      "lat": 44.7594094,
+      "lon": -85.6069652
+    },
+    {
+      "type": "node",
+      "id": 3175747977,
+      "lat": 44.7595314,
+      "lon": -85.6069637
+    },
+    {
+      "type": "node",
+      "id": 3175747978,
+      "lat": 44.7595317,
+      "lon": -85.6070035
+    },
+    {
+      "type": "node",
+      "id": 3175747979,
+      "lat": 44.7595489,
+      "lon": -85.6070033
+    },
+    {
+      "type": "node",
+      "id": 3175747980,
+      "lat": 44.7595486,
+      "lon": -85.6069571
+    },
+    {
+      "type": "node",
+      "id": 3175747981,
+      "lat": 44.7596215,
+      "lon": -85.6069561
+    },
+    {
+      "type": "node",
+      "id": 3231501508,
+      "lat": 44.7596512,
+      "lon": -85.6059707
+    },
+    {
+      "type": "node",
+      "id": 3231501509,
+      "lat": 44.7593372,
+      "lon": -85.6059764
+    },
+    {
+      "type": "node",
+      "id": 3231501510,
+      "lat": 44.7594187,
+      "lon": -85.6057593
+    },
+    {
+      "type": "node",
+      "id": 3231501511,
+      "lat": 44.7596492,
+      "lon": -85.6057551
+    },
+    {
+      "type": "node",
+      "id": 3242809109,
+      "lat": 44.7582114,
+      "lon": -85.6071409
+    },
+    {
+      "type": "node",
+      "id": 3242809110,
+      "lat": 44.7584651,
+      "lon": -85.6071548
+    },
+    {
+      "type": "node",
+      "id": 3242809123,
+      "lat": 44.758817,
+      "lon": -85.6068259
+    },
+    {
+      "type": "node",
+      "id": 3242809132,
+      "lat": 44.758449,
+      "lon": -85.6074537
+    },
+    {
+      "type": "node",
+      "id": 3386026697,
+      "lat": 44.7582198,
+      "lon": -85.6083413
+    },
+    {
+      "type": "node",
+      "id": 3386026698,
+      "lat": 44.7578665,
+      "lon": -85.6083275
+    },
+    {
+      "type": "node",
+      "id": 3386026699,
+      "lat": 44.7579365,
+      "lon": -85.6089421
+    },
+    {
+      "type": "node",
+      "id": 3386026700,
+      "lat": 44.758047,
+      "lon": -85.6089113
+    },
+    {
+      "type": "node",
+      "id": 3386026701,
+      "lat": 44.7580853,
+      "lon": -85.608919
+    },
+    {
+      "type": "node",
+      "id": 3386026702,
+      "lat": 44.7581367,
+      "lon": -85.6085847
+    },
+    {
+      "type": "node",
+      "id": 3813309366,
+      "lat": 44.7593564,
+      "lon": -85.6069213
+    },
+    {
+      "type": "node",
+      "id": 3813309369,
+      "lat": 44.7594091,
+      "lon": -85.6069189
+    },
+    {
+      "type": "node",
+      "id": 6958689028,
+      "lat": 44.7594197,
+      "lon": -85.6058608
+    },
+    {
+      "type": "node",
+      "id": 6958689029,
+      "lat": 44.7593361,
+      "lon": -85.6058623
+    },
+    {
+      "type": "node",
+      "id": 3236870457,
+      "lat": 44.7560537,
+      "lon": -85.5995026
+    },
+    {
+      "type": "node",
+      "id": 3236870458,
+      "lat": 44.7558376,
+      "lon": -85.5995132
+    },
+    {
+      "type": "node",
+      "id": 3236870459,
+      "lat": 44.755825,
+      "lon": -85.5991363
+    },
+    {
+      "type": "node",
+      "id": 3236870460,
+      "lat": 44.7560411,
+      "lon": -85.5991221
+    },
+    {
+      "type": "node",
+      "id": 3253971157,
+      "lat": 44.7548898,
+      "lon": -85.594756
+    },
+    {
+      "type": "node",
+      "id": 3253971158,
+      "lat": 44.7547293,
+      "lon": -85.5947576
+    },
+    {
+      "type": "node",
+      "id": 3253971159,
+      "lat": 44.7547308,
+      "lon": -85.5950655
+    },
+    {
+      "type": "node",
+      "id": 3253971160,
+      "lat": 44.7546945,
+      "lon": -85.5950659
+    },
+    {
+      "type": "node",
+      "id": 3253971661,
+      "lat": 44.754695,
+      "lon": -85.5951728
+    },
+    {
+      "type": "node",
+      "id": 3253971662,
+      "lat": 44.7548918,
+      "lon": -85.5951709
+    },
+    {
+      "type": "node",
+      "id": 3253971671,
+      "lat": 44.7544558,
+      "lon": -85.5945405
+    },
+    {
+      "type": "node",
+      "id": 3253971672,
+      "lat": 44.7543687,
+      "lon": -85.5945411
+    },
+    {
+      "type": "node",
+      "id": 3253971673,
+      "lat": 44.7543706,
+      "lon": -85.5951004
+    },
+    {
+      "type": "node",
+      "id": 3253971674,
+      "lat": 44.7544578,
+      "lon": -85.5950998
+    },
+    {
+      "type": "node",
+      "id": 3253998868,
+      "lat": 44.7540893,
+      "lon": -85.5947489
+    },
+    {
+      "type": "node",
+      "id": 3253998869,
+      "lat": 44.7539907,
+      "lon": -85.594749
+    },
+    {
+      "type": "node",
+      "id": 3253998870,
+      "lat": 44.753991,
+      "lon": -85.5950377
+    },
+    {
+      "type": "node",
+      "id": 3253998871,
+      "lat": 44.7540895,
+      "lon": -85.5950375
+    },
+    {
+      "type": "node",
+      "id": 3165668579,
+      "lat": 44.7587735,
+      "lon": -85.6000688
+    },
+    {
+      "type": "node",
+      "id": 3165668580,
+      "lat": 44.7587668,
+      "lon": -85.5998918
+    },
+    {
+      "type": "node",
+      "id": 3165668581,
+      "lat": 44.7585645,
+      "lon": -85.5999032
+    },
+    {
+      "type": "node",
+      "id": 3165668582,
+      "lat": 44.7585635,
+      "lon": -85.5998737
+    },
+    {
+      "type": "node",
+      "id": 3165668583,
+      "lat": 44.758464,
+      "lon": -85.5998797
+    },
+    {
+      "type": "node",
+      "id": 3165668584,
+      "lat": 44.7584649,
+      "lon": -85.5999347
+    },
+    {
+      "type": "node",
+      "id": 3165668585,
+      "lat": 44.7584849,
+      "lon": -85.5999354
+    },
+    {
+      "type": "node",
+      "id": 3165668586,
+      "lat": 44.7584873,
+      "lon": -85.599989
+    },
+    {
+      "type": "node",
+      "id": 3165668587,
+      "lat": 44.7584754,
+      "lon": -85.599991
+    },
+    {
+      "type": "node",
+      "id": 3165668588,
+      "lat": 44.7584792,
+      "lon": -85.6000769
+    },
+    {
+      "type": "node",
+      "id": 3165668599,
+      "lat": 44.7593349,
+      "lon": -85.6001701
+    },
+    {
+      "type": "node",
+      "id": 3165668600,
+      "lat": 44.7591658,
+      "lon": -85.6001674
+    },
+    {
+      "type": "node",
+      "id": 3165668601,
+      "lat": 44.7591254,
+      "lon": -85.6002378
+    },
+    {
+      "type": "node",
+      "id": 3165668602,
+      "lat": 44.7590235,
+      "lon": -85.6001305
+    },
+    {
+      "type": "node",
+      "id": 3165668603,
+      "lat": 44.7589778,
+      "lon": -85.6001319
+    },
+    {
+      "type": "node",
+      "id": 3165668604,
+      "lat": 44.758973,
+      "lon": -85.6000172
+    },
+    {
+      "type": "node",
+      "id": 3165668605,
+      "lat": 44.7590187,
+      "lon": -85.6000145
+    },
+    {
+      "type": "node",
+      "id": 3165668606,
+      "lat": 44.7590125,
+      "lon": -85.5995404
+    },
+    {
+      "type": "node",
+      "id": 3165668607,
+      "lat": 44.7593382,
+      "lon": -85.5995337
+    },
+    {
+      "type": "node",
+      "id": 3165668608,
+      "lat": 44.7593434,
+      "lon": -85.6000675
+    },
+    {
+      "type": "node",
+      "id": 3165668609,
+      "lat": 44.7593349,
+      "lon": -85.6000688
+    },
+    {
+      "type": "node",
+      "id": 3261936184,
+      "lat": 44.7643323,
+      "lon": -85.6006637
+    },
+    {
+      "type": "node",
+      "id": 3261936185,
+      "lat": 44.7643313,
+      "lon": -85.600496
+    },
+    {
+      "type": "node",
+      "id": 3261936186,
+      "lat": 44.7642689,
+      "lon": -85.600498
+    },
+    {
+      "type": "node",
+      "id": 3261936187,
+      "lat": 44.7642694,
+      "lon": -85.6006637
+    },
+    {
+      "type": "node",
+      "id": 3837322567,
+      "lat": 44.7586264,
+      "lon": -85.5998997
+    },
+    {
+      "type": "node",
+      "id": 3837322568,
+      "lat": 44.7587483,
+      "lon": -85.5998927
+    },
+    {
+      "type": "node",
+      "id": 3236871988,
+      "lat": 44.7583951,
+      "lon": -85.5956886
+    },
+    {
+      "type": "node",
+      "id": 3236871989,
+      "lat": 44.7582989,
+      "lon": -85.5956944
+    },
+    {
+      "type": "node",
+      "id": 3236871990,
+      "lat": 44.7583097,
+      "lon": -85.5959384
+    },
+    {
+      "type": "node",
+      "id": 3236871991,
+      "lat": 44.758405,
+      "lon": -85.5959314
+    },
+    {
+      "type": "node",
+      "id": 3406305113,
+      "lat": 44.758935,
+      "lon": -85.595698
+    },
+    {
+      "type": "node",
+      "id": 3406305114,
+      "lat": 44.758934,
+      "lon": -85.5955579
+    },
+    {
+      "type": "node",
+      "id": 3406305115,
+      "lat": 44.758844,
+      "lon": -85.5955591
+    },
+    {
+      "type": "node",
+      "id": 3406305116,
+      "lat": 44.758845,
+      "lon": -85.5956993
+    },
+    {
+      "type": "node",
+      "id": 3406305117,
+      "lat": 44.7589,
+      "lon": -85.5958136
+    },
+    {
+      "type": "node",
+      "id": 3406305118,
+      "lat": 44.7588981,
+      "lon": -85.5957171
+    },
+    {
+      "type": "node",
+      "id": 3406305119,
+      "lat": 44.7588086,
+      "lon": -85.5957184
+    },
+    {
+      "type": "node",
+      "id": 3406305120,
+      "lat": 44.7588095,
+      "lon": -85.5958163
+    },
+    {
+      "type": "node",
+      "id": 4575783551,
+      "lat": 44.7589344,
+      "lon": -85.595607
+    },
+    {
+      "type": "node",
+      "id": 4575783552,
+      "lat": 44.7588443,
+      "lon": -85.5956062
+    },
+    {
+      "type": "node",
+      "id": 2756671049,
+      "lat": 44.7549945,
+      "lon": -85.5743208
+    },
+    {
+      "type": "node",
+      "id": 2756671050,
+      "lat": 44.7546668,
+      "lon": -85.5742923
+    },
+    {
+      "type": "node",
+      "id": 2756671051,
+      "lat": 44.7546422,
+      "lon": -85.5749123
+    },
+    {
+      "type": "node",
+      "id": 2756671052,
+      "lat": 44.7545816,
+      "lon": -85.5749042
+    },
+    {
+      "type": "node",
+      "id": 2756671053,
+      "lat": 44.7545802,
+      "lon": -85.574951
+    },
+    {
+      "type": "node",
+      "id": 2756671054,
+      "lat": 44.7546105,
+      "lon": -85.5749997
+    },
+    {
+      "type": "node",
+      "id": 2756671055,
+      "lat": 44.7549685,
+      "lon": -85.5750323
+    }
+  ]
+}

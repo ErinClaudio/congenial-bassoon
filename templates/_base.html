@@ -1,0 +1,129 @@
+{% load static %}
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% block title %}Erin Claudio{% endblock title %}</title>
+    <!-- style css -->
+    <link rel="stylesheet" href="{% static 'assets/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/material-design-iconic-font.min.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/venobox.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/slick.min.css'' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/style.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/responsive.css' %}">
+    <!-- modernizr js -->
+    <script src="{% static 'assets/js/vendor/modernizr-2.8.3.min.js' %}"></script>
+
+</head>
+<body>
+    <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+    <!-- Loading Bar Start -->
+    <div id="loading-wrap">
+        <div class="loading-effect"></div>
+    </div>
+    <!-- Loading Bar End -->
+    <!-- Loading Bar End -->
+    <!-- Header Section Start -->
+    <header class="header-style-1">
+		<div class="header-top active-sticky">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 col-sm-2 col-md-3">
+						<div class="left">
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-10 col-md-9">
+						<div class="right">
+							<nav class="mainmenu menu-hover-1 pull-right">
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+								</div>
+								<div class="navbar-collapse collapse clearfix">
+                                    <ul class="navigation clearfix">
+                                        <!-- HOME START -->
+                                        <li><a href="#about">About</a>
+                                        </li>
+                                        <!-- HOME END -->
+                                        <!-- PORTFOLIO START -->
+                                        <li><a href="#experience">Experience</a>
+                                        </li>
+                                        <!-- PORTFOLIO END -->
+                                        <!-- BLOG START -->
+                                        <li><a href="#portfolio">Portfolio</a>
+                                        </li>
+                                        <!-- BLOG END -->
+                                        <li><a href="#contact">Contact</a>
+                                        </li>
+                                        <li><a href="{% static 'ResumeEC.pdf' %}" target= "_blank">Resume</a>
+                                        </li>
+                                    </ul>
+								</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </header>
+	<!-- Header Space -->
+	<div class="header-space"></div>
+{% block content %}
+{% endblock content %}
+ <!-- Footer Section Start -->
+ <footer class="footer white-bg ptb-20 clearfix">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="left pull-left">
+                    <p>Copyright &copy; 2017 <a href="https://themeforest.net/user/regaltheme/portfolio" target="_blank">Regaltheme</a>.</p>
+                </div>
+                <div class="social-icon simple pull-right">
+                    <ul class="clearfix">
+
+                        <li><a href="https://twitter.com/ChiGreentino" target="_blank"><i class="zmdi zmdi-twitter"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/erin-claudio/" target="_blank"><i class="zmdi zmdi-linkedin"></i></a></li>
+                        <li><a href="https://github.com/ErinClaudio?tab=repositories" target="_blank"><i class="zmdi zmdi-github"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Footer Section End -->
+
+<!-- All JS Here -->
+<!-- jQuery Latest Version -->
+<script src="{% static 'assets/js/vendor/jquery-1.12.4.min.js' %}"></script>
+<!-- Bootstrap JS -->
+<script src="{% static 'assets/js/bootstrap.min.js' %}"></script>
+<!-- Isotope -->
+<script src="{% static 'assets/js/isotope.pkgd.js' %}"></script>
+<!-- Validate -->
+<script src="{% static 'assets/js/jquery.validate.min.js' %}"></script>
+<!-- Slick Slider JS -->
+<script src="{% static 'assets/js/slick.min.js' %}"></script>
+<!-- Plugins JS -->
+<script src="{% static 'assets/js/plugins.js' %}"></script>
+<!-- main JS -->
+<script src="{% static 'assets/js/main.js' %}"></script>
+</body>
+
+</html>
