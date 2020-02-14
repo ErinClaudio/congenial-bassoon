@@ -3,8 +3,10 @@
 {% extends "base.html" %}
 
 {% block page_content %}
-<div class="col-md-8 offset-md-2">
-    <h1>Blog Index</h1>
+<div class="col-md-6 offset-md-1">
+    <div class="text-align: center">
+        <h1>Blog Index</h1>
+    </div>
     <hr>
     {% for post in posts %}
     <h2><a href="{% url 'blog_detail' post.pk%}">{{ post.title }}</a></h2>
