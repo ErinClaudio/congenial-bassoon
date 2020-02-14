@@ -1,5 +1,5 @@
 import requests
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from .models import City
 from .forms import CityForm
 
@@ -7,9 +7,35 @@ from .forms import CityForm
 def index(request):
     url = 'http://api.openweathermap.org/data/2.5/weather?q={}&units=imperial&appid=fdc519f3931d0e0ab1e89bd1f882570f'
 
+    err_mess = ''
+    message = " "
+    message_class = " "
+
+
+
     if request.method == 'POST':
         form = CityForm(request.POST)
-        form.save()
+
+        if form.is_valid():
+            new_city = form.cleaned_data['name']
+            existing_city_count = City.objects.filter(name=new_city).count()
+
+            if existing_city_count==0:
+                r = requests.get(url.format(new_city)).json()
+
+                if r['cod'] == 200:
+                    form.save()
+                else:
+                    err_mess = "Please Try Again"
+            else:
+                err_mess = "Please try again"
+
+        if err_mess:
+            message = err_mess
+            message_class = 'is-danger'
+        else:
+            message = "City added"
+            message_class= "is-success"
 
     form = CityForm()
 
@@ -29,5 +55,14 @@ def index(request):
 
         weather_data.append(city_weather)
 
-    context = {'weather_data': weather_data, 'form': form}
+    context = {
+        'weather_data': weather_data, 'form': form,
+        "message": message,
+        'message_class': message_class
+        }
     return render(request, 'weather/weather.html', context)
+
+
+def delete_city(request, city_name):
+    City.objects.get(name = city_name).delete()
+    return redirect("weatherhome")

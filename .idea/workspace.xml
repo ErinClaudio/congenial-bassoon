@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccb2bbf2-2ac6-4dab-84d7-44bc2f0afc31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog_category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog_index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secretpage/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secretpage/templates/registration/password_reset_complete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secretpage/templates/registration/password_reset_confirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secretpage/templates/registration/password_reset_done.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secretpage/templates/registration/password_reset_email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secretpage/templates/registration/password_reset_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secretpage/templates/registration/password_reset_subject.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secretpage/templates/secret_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secretpage/templates/signuphome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secretpage/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ResumeEC.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/ResumeEC.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ResumeEC.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/teslaandteam.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/teslabody.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weatherapp/templates/weather/weather.html" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/templates/weather/weather.html" afterDir="false" />
-    </list>
+    <list default="true" id="ccb2bbf2-2ac6-4dab-84d7-44bc2f0afc31" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,10 +138,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="258" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581110999665">
+    <state x="258" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581700892920">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="258" y="214" key="#com.intellij.fileTypes.FileTypeChooser/74.-768.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1581110999665" />
+    <state x="258" y="214" key="#com.intellij.fileTypes.FileTypeChooser/74.-768.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1581700892920" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1580584718706">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
