@@ -1,37 +1,81 @@
+{% load static %}
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-  <title>{% block title %}My Site{% endblock %}</title>
-  <style type="text/css">
-    .asteriskField {
-      display: none;
-    }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Erin Claudio</title>
 
-    form .alert ul li {
-      list-style: none;
-    }
-
-    form .alert ul {
-      padding: 0;
-      margin: 0;
-    }
-  </style>
+    <link rel="stylesheet" href="{% static 'assets/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/material-design-iconic-font.min.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/venobox.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/slick.min.css'' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/style.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/responsive.css' %}">
+    <!-- modernizr js -->
+    <script src="{% static 'assets/js/vendor/modernizr-2.8.3.min.js' %}"></script>
+    <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.css" />-->
 </head>
 <body>
-   <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
-    <div class="container">
-      <a class="navbar-brand" href="{% url 'home' %}">My Site</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="{% url 'home' %}">Home</a>
-          </li>
+
+<header class="header-style-1">
+		<div class="header-top active-sticky">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 col-sm-2 col-md-3">
+						<div class="left">
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-10 col-md-9">
+						<div class="right">
+							<nav class="mainmenu menu-hover-1 pull-right">
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+								</div>
+                                <div class="navbar-collapse collapse clearfix">
+                                    <ul class="navigation clearfix">
+                                        <!-- HOME START -->
+                                        <li><a class="nav-link" href="{% url 'home' %}">Home</a>
+                                        </li>
+                                        <li><a class="nav-link" href="weather/">Python API weather</a>
+                                        </li>
+                                        <li><a class="nav-link" href=" blog/">Blog</a>
+                                        </li>
+                                        <li><a class="nav-link" href="https://twitter.com/claudio_erin"target="_blank">Python Twitter Bot </a>
+                                        </li>
+                                        <li><a class="nav-link" href="http://www.traversecitykids.com/" target="_blank">Wordpress</a>
+                                        </li>
+                                        <li><a class="nav-link" href="{% static 'ResumeEC.pdf' %}" target= "_blank">Resume</a>
+                                        </li>
+                                    </ul>
+								</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </header>
+<div class="header-space"></div>
+    <!-- Header Section End -->
+	<!-- Breadcrumbs Start -->
+<div class="pages-header bg-color-2">
+		<div class="container">
+			<div class="row text-center">
+				<div class="col-xs-12">
+					<div class="page-title ptb-110">
+						<h1 class="mb-15">Please sign in</h1>
+                        <h4 class="mb-5">Check out the secret page</h4>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
           {% if user.is_authenticated %}
             <li class="nav-item">
               <a class="nav-link" href="{% url 'secret2' %}">Secret Page</a>
@@ -44,18 +88,31 @@
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 {{ user.username }}
               </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="{% url 'password_change' %}">Change password</a>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="{% url 'logout' %}">Log out</a>
+              <div>
+                  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="{% url 'password_change' %}">Change password</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="{% url 'logout' %}">Log out</a>
+                  </div>
               </div>
             </li>
           </ul>
         {% else %}
-          <form class="form-inline my-2 my-lg-0">
-            <a href="{% url 'login' %}" class="btn btn-outline-secondary">Log in</a>
-            <a href="{% url 'signup2' %}" class="btn btn-primary ml-2">Sign up</a>
-          </form>
+
+           <div class="container mb-minus">
+               <div class="row justify-content-center">
+                   <div class="col-sm-12">
+                       <div class="about-info text-center">
+                           <div class="section-title">
+                              <form>
+                                <a href="{% url 'login' %}" class="btn btn-outline-secondary">Log in</a>
+                                <a href="{% url 'signup2' %}" class="btn btn-primary ml-2">Sign up</a>
+                              </form>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+           </div>
         {% endif %}
       </div>
     </div>
@@ -64,11 +121,44 @@
   <div class="container">
     {% block content %}
     {% endblock %}
-  </div>
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+ <footer class="footer white-bg ptb-20 clearfix">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="left pull-left">
+                    <p>Copyright &copy; 2017 <a href="https://themeforest.net/user/regaltheme/portfolio" target="_blank">Regaltheme</a>.</p>
+                </div>
+                <div class="social-icon simple pull-right">
+                    <ul class="clearfix">
 
+                        <li><a href="https://twitter.com/ChiGreentino" target="_blank"><i class="zmdi zmdi-twitter"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/erin-claudio/" target="_blank"><i class="zmdi zmdi-linkedin"></i></a></li>
+                        <li><a href="https://github.com/ErinClaudio?tab=repositories" target="_blank"><i class="zmdi zmdi-github"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Footer Section End -->
 
+<!-- All JS Here -->
+<!-- jQuery Latest Version -->
+<script src="{% static 'assets/js/vendor/jquery-1.12.4.min.js' %}"></script>
+<!-- Bootstrap JS -->
+<script src="{% static 'assets/js/bootstrap.min.js' %}"></script>
+<!-- Isotope -->
+<script src="{% static 'assets/js/isotope.pkgd.js' %}"></script>
+<!-- Validate -->
+<script src="{% static 'assets/js/jquery.validate.min.js' %}"></script>
+<!-- Slick Slider JS -->
+<script src="{% static 'assets/js/slick.min.js' %}"></script>
+<!-- Plugins JS -->
+<script src="{% static 'assets/js/plugins.js' %}"></script>
+<!-- main JS -->
+<script src="{% static 'assets/js/main.js' %}"></script>
+</body>
+
+</html>
 </body>
 </html>
