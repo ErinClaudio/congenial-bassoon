@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-{% extends "base.html" %}
-
-{% block page_content %}
-<div class="col-md-6 offset-md-1">
+{% extends "base.html" %} {% block page_content %}
+<div class="col-md-11 offset-md-1">
     <div class="text-align: center">
         <h1>Blog Index</h1>
     </div>
-    <hr>
-    {% for post in posts %}
+    <hr> {% for post in posts %}
     <h2><a href="{% url 'blog_detail' post.pk%}">{{ post.title }}</a></h2>
     <small>
         {{ post.created_on.date }} |&nbsp;
@@ -19,7 +16,8 @@
         </a>&nbsp;
         {% endfor %}
     </small>
-    <p>{{ post.body | slice:":400" }}...</p>
+    <p style="text-align: justify">{{ post.body }}</p>
+    </br>
     {% endfor %}
 </div>
 {% endblock %}

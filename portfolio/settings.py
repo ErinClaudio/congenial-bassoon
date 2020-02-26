@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'projects',
     'weatherapp',
     'blog',
-    'secretpage'
+    'secretpage',
+    'crispy_forms'
 
 ]
 
