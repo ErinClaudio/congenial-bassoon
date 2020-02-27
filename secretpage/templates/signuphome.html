@@ -1,9 +1,38 @@
-{% extends 'base1.html' %}
-{% block content %}
-<h2>Hello</h2>
-<p>Welcome to My Site, {% if user.is_authenticated %}{{ user.username }}{% else %}visitor{% endif %}!</p>
-<p>
-    <strong>Total users registered: </strong> {{ count }}
-</p>
-{% endblock %}
+{% extends 'base1.html' %} {% block content %}
+<section class="section">
+    <div class="container text-center pt-40">
+        <div class="columns">
+            <div class="column is-offset-4 is-4">
+                <h2>This is the Sign up for the secret page</h2>
+                <p>Welcome to My Site, {% if user.is_authenticated %}{{ user.username }}{% else %}visitor{% endif %}!</p>
+                <p>
+                    <strong>Total users registered: </strong> {{ count }}
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+{% endblock %}

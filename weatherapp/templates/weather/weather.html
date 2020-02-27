@@ -79,24 +79,24 @@
         </div>
     </div>
     <section class="section">
-        <div class="container text-center">
+        <div class="container text-center pt-40">
             <div class="columns">
                 <div class="column is-offset-4 is-4">
-                    <br method="POST"> {% csrf_token %}
-                    <div class="field has-addons">
-                        <div class="control is-expanded">
-                            {{ form.name }}
-                        </div>
-                        </br>
-                        <div class="control">
-                            <button type="submit" class="button is-info">
+                    <form method="POST"> {% csrf_token %}
+                        <div class="field has-addons">
+                            <div class="control is-expanded">
+                                {{ form.name }}
+                            </div>
+                            </br>
+                            <div class="control">
+                                <button type="submit" class="button is-info">
                                     Add City
                                 </button>
+                            </div>
                         </div>
-                    </div>
-                    {% if message %}
-                    <div class="notification {{ message_class}}">{{ message}}</div>
-                    {% endif %}
+                        {% if message %}
+                        <div class="notification {{ message_class}}">{{ message}}</div>
+                        {% endif %}
                     </form>
                 </div>
             </div>
@@ -126,8 +126,7 @@
                             </div>
                             <!-- maybe here-->
                             <div class="media-center">
-                                <a href="{% url 'delete_city' city_weather.city %}">
-                                    <button class="delete"></button>
+                                <a href="{% url 'delete_city' city_weather.city %}" class="btn-danger btn-sm">Delete
                                 </a>
                             </div>
                         </article>

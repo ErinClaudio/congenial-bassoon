@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="ccb2bbf2-2ac6-4dab-84d7-44bc2f0afc31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secretpage/templates/base1.html" beforeDir="false" afterPath="$PROJECT_DIR$/secretpage/templates/base1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secretpage/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/secretpage/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secretpage/templates/secret_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/secretpage/templates/secret_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secretpage/templates/signuphome.html" beforeDir="false" afterPath="$PROJECT_DIR$/secretpage/templates/signuphome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weatherapp/templates/weather/weather.html" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/templates/weather/weather.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,11 +163,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="875" height="700" key="SwitcherDM/74.-768.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1580494085841" />
-    <state x="163" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1582537232785">
+    <state x="163" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1582810240162">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="163" y="167" key="com.intellij.ide.util.TipDialog/-1366.52.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1578411843875" />
-    <state x="163" y="167" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1582537232785" />
+    <state x="163" y="167" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1582810240162" />
     <state x="163" y="167" key="com.intellij.ide.util.TipDialog/74.-745.1366.745/0.0.1440.900@0.0.1440.900" timestamp="1580500751964" />
     <state x="163" y="167" key="com.intellij.ide.util.TipDialog/74.-768.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1581631408665" />
   </component>
