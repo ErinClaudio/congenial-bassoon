@@ -14,7 +14,7 @@ urlpatterns = [
     path('signup2/', views.signup, name='signup2'),
     path('login/', views.signup, ),
     path('signup/', views.home, name="secret"),
-    path('secretpage/', views.secret_page, name='secret2')
+    path('secretpage/', views.secret_page, name='supersecret')
 ]
 
 urlpatterns += staticfiles_urlpatterns()
