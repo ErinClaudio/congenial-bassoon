@@ -3,8 +3,8 @@
     <div class="container text-center pt-40">
         <div class="columns">
             <div class="column is-offset-4 is-4">
-                <h2>This is the Sign up for the secret page</h2>
-                <p>Welcome to My Site, {% if user.is_authenticated %}{{ user.username }}{% else %}visitor{% endif %}!</p>
+                <h2>First Sign up, then Login for the secret page</h2>
+                <p>Welcome to the Login, {% if user.is_authenticated %}{{ user.username }}{% else %}visitor{% endif %}!</p>
                 <p>
                     <strong>Total users registered: </strong> {{ count }}
                 </p>

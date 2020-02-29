@@ -16,7 +16,7 @@ def signup(request):
         form = UserCreationForm(request.POST)
         if form.is_valid():
             form.save()
-            return redirect('home') #this needs to be changed
+            return redirect('login') #this needs to be changed
     else:
         form = UserCreationForm()
     return render(request, 'registration/signup2.html', {'form': form})
@@ -25,4 +25,5 @@ def signup(request):
 @login_required
 def secret_page(request):
     return render(request, 'secret_page.html')
+
 
