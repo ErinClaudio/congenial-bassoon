@@ -530,7 +530,7 @@ input[type=button][disabled].default {
 .inline-group h2 {
     font-size: 12px;
     letter-spacing: 0.5px;
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 
 .module table {
@@ -882,7 +882,7 @@ table#change-history tbody th {
     font-weight: 300;
     font-size: 11px;
     letter-spacing: 0.5px;
-    text-transform: uppercase;
+    text-transform: lowercase;
     text-align: right;
 }
 

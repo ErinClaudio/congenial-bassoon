@@ -3045,7 +3045,7 @@ footer .left p a,
     color: #7c7c7c;
     font-family: "Lato", sans-serif;
     padding: 0 40px;
-    text-transform: uppercase;
+    text-transform: lowercase;
     letter-spacing: .50px;
 }
 
