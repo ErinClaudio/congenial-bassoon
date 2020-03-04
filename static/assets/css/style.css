@@ -3126,7 +3126,9 @@ footer .left p a,
 .two-style1 .hover-1 hr.line {
     margin: 13px 0 0;
 }
-
+#about .about-info:first-child {
+margin-right: 0;
+}
 .three-style6 .grid-item,
 .three-style6 .portfolio-grid,
 .three-style2 .grid-item,
