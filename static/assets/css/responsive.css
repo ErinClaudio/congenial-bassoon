@@ -116,12 +116,15 @@
 	  top: -2px;
 	  z-index: 9999;
 	}
+	/*
 	.header-top .navbar-collapse {
 	  right: 15px;
 	}
+	
     .mainmenu .navbar-collapse {
 	  top: 70px;
 	}
+	*/
     .is-sticky .mainmenu .navbar-collapse {
 	  top: 57px;
 	}

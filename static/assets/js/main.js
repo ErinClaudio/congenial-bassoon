@@ -15,6 +15,11 @@
      /*
      MOBILE MENU
      ================================== */
+     // Hide mobile nav menu after clicking a link
+    $('.navbar-collapse ul li a').click(function () {
+    $(".navbar-collapse").removeClass('in');
+    });
+
      //  Main menu
      var MainLiDrop = $('.mainmenu li.dropdown,.mainmenu li.sub-dropdown');
 	 var droPBtn = $('<div class="dropdown-btn"></div>');

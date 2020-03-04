@@ -27,7 +27,7 @@
 	[ 3. Global Classes ]
 	[ 4. Home Version's ]
 	[ 5. Pages ]
-	[ 6. Loding Bar ]
+	[ 6. Loading Bar ]
 	[ 7. ScrollUp ]
 ==============================================================*/
  /* 
@@ -136,7 +136,6 @@ a {
     color: #a1a1a1;
     font-family: 'Lato', sans-serif;
     font-weight: 700;
-    text-transform: uppercase;
     line-height: 1;
 }
 
@@ -808,7 +807,7 @@ h6 {
 }
 
 .btn i.material-icons {
-    font-size: 18px;
+    font-size: 8px;
 }
 
 .btn.focus,

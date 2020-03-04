@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccb2bbf2-2ac6-4dab-84d7-44bc2f0afc31" name="Default Changelist" comment="" />
+    <list default="true" id="ccb2bbf2-2ac6-4dab-84d7-44bc2f0afc31" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,12 +158,13 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="875" height="700" key="SwitcherDM/74.-768.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1580494085841" />
-    <state x="163" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1583168235236">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="163" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1583243380574">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="163" y="167" key="com.intellij.ide.util.TipDialog/-1366.52.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1578411843875" />
     <state x="163" y="186" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1582982307611" />
     <state x="163" y="167" key="com.intellij.ide.util.TipDialog/74.-745.1366.745/0.0.1440.900@0.0.1440.900" timestamp="1580500751964" />
+    <state x="163" y="167" key="com.intellij.ide.util.TipDialog/74.-745.1366.745/0.23.1440.877@0.23.1440.877" timestamp="1583243380574" />
     <state x="163" y="167" key="com.intellij.ide.util.TipDialog/74.-768.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1583168235236" />
   </component>
 </project>
