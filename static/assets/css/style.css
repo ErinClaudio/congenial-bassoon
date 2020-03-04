@@ -1005,6 +1005,8 @@ select {
 /* Social Icons
 ----------------------*/
 
+
+
 .social-icon,
 .simple.social-icon li a {
     line-height: 1;
@@ -1016,6 +1018,10 @@ select {
 
 .social-icon li {
     float: left;
+}
+
+.zmdi::before {
+font-size: 24px;
 }
 
 .social-icon li a {
@@ -3126,6 +3132,7 @@ footer .left p a,
 .two-style1 .hover-1 hr.line {
     margin: 13px 0 0;
 }
+
 #about .about-info:first-child {
 margin-right: 0;
 }
