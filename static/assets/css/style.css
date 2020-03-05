@@ -250,6 +250,12 @@ h6 {
         font-size: 30px
     }
 }
+/*
+photo on main page spacing addtion
+
+*/
+
+.img-responsive {margin: 0 auto;}
 /* 
 [ 3. Global Classes ]
 ====================================== */
