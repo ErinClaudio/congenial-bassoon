@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'weatherapp',
     'blog',
     'secretpage',
-    'crispy_forms'
+    'crispy_forms',
+    'simplemap'
 
 ]
 

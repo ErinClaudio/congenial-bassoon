@@ -3,6 +3,7 @@ from django.urls import path, include
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from secretpage import views
 
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('projects/', include('projects.urls')),
@@ -14,7 +15,8 @@ urlpatterns = [
     path('signup2/', views.signup, name='signup2'),
     path('login/', views.signup, ),
     path('signup/', views.home, name="secret"),
-    path('secretpage/', views.secret_page, name='supersecret')
+    path('secretpage/', views.secret_page, name='supersecret'),
+    path('maps/', include('simplemap.urls')),
 ]
 
 urlpatterns += staticfiles_urlpatterns()
